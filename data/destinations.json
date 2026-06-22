@@ -1,0 +1,1699 @@
+{
+  "meta": {
+    "title": "Last-Minute Late-October Backpacking in the US",
+    "season_window": "Late October",
+    "why_late_october": "High country (Sierra, Rockies, Cascades, northern Appalachians) is already getting snow and hard freezes, so the sweet spot shifts to the desert Southwest, southern California, mild coastlines, and the southern/Appalachian foliage belt where the brutal summer heat has finally broken. Daylight is ~11 hours; pack a warm bag because desert and canyon nights can drop near or below freezing even when afternoons are mild.",
+    "bookability_legend": {
+      "open_access": "No reservation needed — self-register at a trailhead board or get a free walk-up permit. True 'decide on a whim' options.",
+      "easy_now": "Reservations available right now (recreation.gov, park system, or a ferry/site booking); rarely sells out for late October.",
+      "competitive": "Bookable but contested; apply now and have backup dates / last-minute-drawing or waitlist options.",
+      "unavailable": "Effectively impossible to secure last-minute for late October."
+    },
+    "regions_covered": [
+      "Colorado Plateau (UT/AZ canyons)",
+      "Arizona desert & sky islands",
+      "New Mexico",
+      "Texas",
+      "California desert",
+      "California & Pacific coast",
+      "Appalachians & Southeast",
+      "Ozarks",
+      "Florida"
+    ],
+    "primary_sort_field": "bookability",
+    "note": "Permit rules, quotas, and seasonal/fire closures change. Always confirm on the official site for each destination before committing. Some higher-elevation entries (e.g., Bryce) carry real early-snow risk in late October — see each destination's cons."
+  },
+  "destinations": [
+    {
+      "id": "grand-canyon",
+      "name": "Grand Canyon National Park (Corridor)",
+      "state": "Arizona",
+      "region": "Colorado Plateau",
+      "bookability": "competitive",
+      "bookability_note": "Rolling backcountry permit system; requests for October open ~4 months ahead. Corridor is contested; less-traveled routes have more room. Walk-up waitlist exists.",
+      "best_route": "South Kaibab down / Bright Angel up, overnight at Bright Angel Campground (rim-to-river)",
+      "suggested_nights": "1-2",
+      "difficulty": "Strenuous",
+      "terrain": "Iconic layered canyon, river corridor",
+      "late_october_fit": "Arguably the single best late-October trip — summer furnace gone, inner canyon in the comfortable 60s-70s.",
+      "pros": [
+        "Bucket-list, world-famous descent",
+        "Ideal late-October temperatures in the inner canyon",
+        "Reliable water and developed corridor campground"
+      ],
+      "cons": [
+        "Corridor permits are competitive — not guaranteed",
+        "Brutal climb back out (huge elevation gain)",
+        "Requires advance application plus a backup plan"
+      ],
+      "tradeoff": "The best scenery-to-effort payoff on the list, but the permit is a gamble you must work for.",
+      "official_site": "https://www.nps.gov/grca",
+      "image": {
+        "file": "grand-canyon.jpg",
+        "title": "File:USA 09847 Grand Canyon Luca Galuzzi 2007.jpg",
+        "artist": "Luca Galuzzi (Lucag)",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:USA_09847_Grand_Canyon_Luca_Galuzzi_2007.jpg",
+        "width": 1600,
+        "height": 1066,
+        "query": "Bright Angel Trail Grand Canyon"
+      },
+      "coordinates": {
+        "lat": 36.0527,
+        "lon": -112.0838,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/grca",
+        "map": "https://www.google.com/maps/search/?api=1&query=36.0527,-112.0838",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.0527&lon=-112.0838",
+        "alltrails": "https://www.alltrails.com/search?q=Grand%20Canyon%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Contested — apply early and keep backup dates.",
+        "nights": "1-2",
+        "water": "Reliable water + developed campground",
+        "risk": "Competitive permit; brutal climb out",
+        "route": "South Kaibab down / Bright Angel up, overnight at Bright Angel Campground (rim-to-river)"
+      }
+    },
+    {
+      "id": "zion-narrows",
+      "name": "Zion National Park (Narrows / West Rim)",
+      "state": "Utah",
+      "region": "Colorado Plateau",
+      "bookability": "competitive",
+      "bookability_note": "Wilderness permits via Zion's calendar + seasonal lottery; the Narrows top-down also has last-minute drawings 2-7 days before. A full calendar isn't a dead end.",
+      "best_route": "Narrows top-down (~16 mi, one overnight) OR the drier West Rim Trail",
+      "suggested_nights": "1",
+      "difficulty": "Strenuous (Narrows) / moderate (West Rim)",
+      "terrain": "Slot-canyon river hike (Narrows) or high rim with big views (West Rim)",
+      "late_october_fit": "Golden cottonwoods, thinning crowds; flash-flood risk lower than monsoon season but never zero.",
+      "pros": [
+        "One of the most famous canyon hikes anywhere",
+        "Fall color along the Virgin River",
+        "Last-minute drawings give a second chance at permits"
+      ],
+      "cons": [
+        "Narrows water is cold — drysuit weather by late October",
+        "Must check flash-flood forecast; trips can be weather-canceled",
+        "Permits contested; shuttle logistics for the top-down start"
+      ],
+      "tradeoff": "Unforgettable if conditions and permits align, but the most weather-dependent, gear-intensive pick.",
+      "official_site": "https://www.nps.gov/zion",
+      "image": {
+        "file": "zion-narrows.jpg",
+        "title": "File:Zion narrows streams virgin rivers.jpg",
+        "artist": "Jon Sullivan",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Zion_narrows_streams_virgin_rivers.jpg",
+        "width": 1280,
+        "height": 960,
+        "query": "Zion Narrows Virgin River"
+      },
+      "coordinates": {
+        "lat": 37.2853,
+        "lon": -112.948,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/zion",
+        "map": "https://www.google.com/maps/search/?api=1&query=37.2853,-112.948",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.2853&lon=-112.948",
+        "alltrails": "https://www.alltrails.com/search?q=Zion%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Contested — apply early and keep backup dates.",
+        "nights": "1",
+        "water": "In-river hike — cold water all day",
+        "risk": "Flash floods; permit contested",
+        "route": "Narrows top-down (~16 mi, one overnight) OR the drier West Rim Trail"
+      }
+    },
+    {
+      "id": "paria-buckskin",
+      "name": "Paria Canyon / Buckskin Gulch",
+      "state": "Utah / Arizona",
+      "region": "Colorado Plateau",
+      "bookability": "easy_now",
+      "bookability_note": "Daily online quota on recreation.gov; far less competitive than spring, generally available now for fall.",
+      "best_route": "Wire Pass / Buckskin Gulch into Paria Canyon (overnight or thru-hike to Lee's Ferry)",
+      "suggested_nights": "1-4",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "World-class slot canyon and deep river canyon",
+      "late_october_fit": "Excellent fall conditions in one of the longest slot canyons on earth.",
+      "pros": [
+        "Genuinely available to book now",
+        "Spectacular, immersive slot-canyon experience",
+        "Flexible from an overnight to a multi-day thru-hike"
+      ],
+      "cons": [
+        "Flash-flood danger — forecast checks are non-negotiable",
+        "Cold water/mud wades that numb in late season",
+        "Car shuttle needed for the full thru-hike"
+      ],
+      "tradeoff": "A bookable, jaw-dropping slot canyon, but demands flash-flood vigilance and slot-canyon competence.",
+      "official_site": "https://www.blm.gov/visit/paria-canyon",
+      "image": {
+        "file": "paria-buckskin.jpg",
+        "title": "File:Wire Pass Canyon meets Buckskin Gulch.jpg",
+        "artist": "Philkon Phil Konstantin",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wire_Pass_Canyon_meets_Buckskin_Gulch.jpg",
+        "width": 1600,
+        "height": 1200,
+        "query": "Buckskin Gulch slot canyon"
+      },
+      "coordinates": {
+        "lat": 37.019,
+        "lon": -112.0256,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.blm.gov/visit/paria-canyon",
+        "map": "https://www.google.com/maps/search/?api=1&query=37.019,-112.0256",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.019&lon=-112.0256",
+        "recreation": "https://www.recreation.gov/search?q=Paria%20Canyon",
+        "alltrails": "https://www.alltrails.com/search?q=Paria%20Canyon%20%2F%20Buckskin%20Gulch"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-4",
+        "water": "River/spring water — treat it",
+        "risk": "Flash floods; cold, muddy wades",
+        "route": "Wire Pass / Buckskin Gulch into Paria Canyon (overnight or thru-hike to Lee's Ferry)"
+      }
+    },
+    {
+      "id": "canyonlands-needles",
+      "name": "Canyonlands National Park (Needles District)",
+      "state": "Utah",
+      "region": "Colorado Plateau",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry permits via recreation.gov; fall is prime and popular, so book soon but availability is normal.",
+      "best_route": "Chesler Park / Joint Trail loop (backcountry zones)",
+      "suggested_nights": "1-3",
+      "difficulty": "Moderate",
+      "terrain": "Sandstone spires, slickrock, desert canyons",
+      "late_october_fit": "Peak desert backpacking season — warm days, crisp nights, stable weather.",
+      "pros": [
+        "Surreal needle-and-fin rock landscape",
+        "Reliable fall weather and bookable permits",
+        "Excellent loop options of varied length"
+      ],
+      "cons": [
+        "Water is scarce — caching or heavy carry required",
+        "Popular zones can fill; book ahead",
+        "Slickrock route-finding in spots"
+      ],
+      "tradeoff": "Otherworldly scenery you can reserve now, with water logistics as the main planning cost.",
+      "official_site": "https://www.nps.gov/cany",
+      "image": {
+        "file": "canyonlands-needles.jpg",
+        "title": "File:Chesler Park, The Needles, Canyonlands (29046056724).jpg",
+        "artist": "Fabio Achilli from Milano, Italy",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chesler_Park,_The_Needles,_Canyonlands_(29046056724).jpg",
+        "width": 1600,
+        "height": 1200,
+        "query": "Chesler Park Needles Canyonlands"
+      },
+      "coordinates": {
+        "lat": 38.1457,
+        "lon": -109.8234,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/cany",
+        "map": "https://www.google.com/maps/search/?api=1&query=38.1457,-109.8234",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.1457&lon=-109.8234",
+        "recreation": "https://www.recreation.gov/search?q=Canyonlands",
+        "alltrails": "https://www.alltrails.com/search?q=Canyonlands%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-3",
+        "water": "Scarce — cache or carry",
+        "risk": "Water logistics; slickrock route-finding",
+        "route": "Chesler Park / Joint Trail loop (backcountry zones)"
+      }
+    },
+    {
+      "id": "capitol-reef",
+      "name": "Capitol Reef National Park (Backcountry)",
+      "state": "Utah",
+      "region": "Colorado Plateau",
+      "bookability": "open_access",
+      "bookability_note": "Free backcountry permits, self-registered; rarely any quota pressure.",
+      "best_route": "Upper Muley Twist Canyon or Halls Creek Narrows",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Waterpocket Fold canyons, slickrock, narrows",
+      "late_october_fit": "Quiet, cool, and uncrowded — one of the least-trafficked Utah parks in fall.",
+      "pros": [
+        "Free, low-hassle permits",
+        "Genuine solitude vs. the big-name parks",
+        "Striking, varied canyon terrain"
+      ],
+      "cons": [
+        "Very limited water; flash-flood awareness needed in narrows",
+        "Remote trailheads on dirt roads",
+        "Navigation and self-sufficiency required"
+      ],
+      "tradeoff": "Solitude and free permits, but you trade developed infrastructure and easy water.",
+      "official_site": "https://www.nps.gov/care",
+      "image": {
+        "file": "capitol-reef.jpg",
+        "title": "File:Waterpocket Fold from above Capitol Reef Scenic Drive.jpeg",
+        "artist": "Unknown",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Waterpocket_Fold_from_above_Capitol_Reef_Scenic_Drive.jpeg",
+        "width": 1600,
+        "height": 672,
+        "query": "Capitol Reef Waterpocket Fold"
+      },
+      "coordinates": {
+        "lat": 37.9,
+        "lon": -111,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/care",
+        "map": "https://www.google.com/maps/search/?api=1&query=37.9,-111",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.9&lon=-111",
+        "alltrails": "https://www.alltrails.com/search?q=Capitol%20Reef%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "Very limited — carry your own",
+        "risk": "Remote dirt roads; full self-sufficiency",
+        "route": "Upper Muley Twist Canyon or Halls Creek Narrows"
+      }
+    },
+    {
+      "id": "coyote-gulch",
+      "name": "Coyote Gulch / Grand Staircase-Escalante",
+      "state": "Utah",
+      "region": "Colorado Plateau",
+      "bookability": "open_access",
+      "bookability_note": "Free self-issue permits at trailhead registers; no quota for most of the area.",
+      "best_route": "Hurricane Wash to Coyote Gulch (arches, natural bridge, Escalante River)",
+      "suggested_nights": "2-3",
+      "difficulty": "Moderate",
+      "terrain": "Lush slot/river canyon with arches and waterfalls",
+      "late_october_fit": "Cottonwoods turning gold, mild temps, low water levels for easy wading.",
+      "pros": [
+        "No reservation needed — go anytime",
+        "Iconic, photogenic canyon with reliable water",
+        "Beginner-friendly canyon backpacking"
+      ],
+      "cons": [
+        "Long sandy approach and steep exit options",
+        "Flash-flood risk during storms",
+        "Increasingly popular for an 'off the radar' spot"
+      ],
+      "tradeoff": "One of the easiest world-class canyon trips to just show up and do, but expect company.",
+      "official_site": "https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante",
+      "image": {
+        "file": "coyote-gulch.jpg",
+        "title": "File:From the Top - Coyote Gulch.jpg",
+        "artist": "John Fowler from Placitas, NM, USA",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:From_the_Top_-_Coyote_Gulch.jpg",
+        "width": 1600,
+        "height": 641,
+        "query": "Jacob Hamblin Arch Coyote Gulch"
+      },
+      "coordinates": {
+        "lat": 37.4127,
+        "lon": -111.149,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante",
+        "map": "https://www.google.com/maps/search/?api=1&query=37.4127,-111.149",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.4127&lon=-111.149",
+        "alltrails": "https://www.alltrails.com/search?q=Coyote%20Gulch%20%2F%20Grand%20Staircase-Escalante"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "2-3",
+        "water": "Reliable canyon water",
+        "risk": "Flash floods; long sandy approach",
+        "route": "Hurricane Wash to Coyote Gulch (arches, natural bridge, Escalante River)"
+      }
+    },
+    {
+      "id": "bryce-under-rim",
+      "name": "Bryce Canyon National Park (Under-the-Rim Trail)",
+      "state": "Utah",
+      "region": "Colorado Plateau",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry permits at the visitor center; rarely full. NOTE: high elevation makes late October a snow gamble.",
+      "best_route": "Under-the-Rim Trail (sections or full ~23 mi)",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Hoodoo amphitheaters, pine forest, high plateau",
+      "late_october_fit": "Stunning when clear, but at ~8,000-9,000 ft it can see hard freezes and early snow.",
+      "pros": [
+        "Unique hoodoo scenery few people backpack through",
+        "Permits almost always available",
+        "Deep solitude below the rim"
+      ],
+      "cons": [
+        "Real early-snow and hard-freeze risk in late October",
+        "Cold nights demand serious gear",
+        "Water sources can be unreliable/dry"
+      ],
+      "tradeoff": "Singular scenery and easy permits, but the highest weather risk on this list — watch the forecast hard.",
+      "official_site": "https://www.nps.gov/brca",
+      "image": {
+        "file": "bryce-under-rim.jpg",
+        "title": "File:Hoodoos in the Bryce Canyon National Park.jpg",
+        "artist": "Michael Gäbler",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hoodoos_in_the_Bryce_Canyon_National_Park.jpg",
+        "width": 1600,
+        "height": 1049,
+        "query": "Bryce Canyon hoodoos"
+      },
+      "coordinates": {
+        "lat": 37.6045,
+        "lon": -112.1571,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/brca",
+        "map": "https://www.google.com/maps/search/?api=1&query=37.6045,-112.1571",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.6045&lon=-112.1571",
+        "alltrails": "https://www.alltrails.com/search?q=Bryce%20Canyon%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Unreliable / can be dry",
+        "risk": "Early snow & hard freezes (~8–9k ft)",
+        "route": "Under-the-Rim Trail (sections or full ~23 mi)"
+      }
+    },
+    {
+      "id": "aravaipa",
+      "name": "Aravaipa Canyon Wilderness",
+      "state": "Arizona",
+      "region": "Arizona desert & sky islands",
+      "bookability": "competitive",
+      "bookability_note": "Strict daily quota (50 people) via recreation.gov; fall sometimes has openings but weekends go fast — check now.",
+      "best_route": "Aravaipa Canyon (perennial creek walk, east or west entrance)",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate",
+      "terrain": "Lush perennial desert stream canyon, cottonwoods, side canyons",
+      "late_october_fit": "Comfortable water temps, fall color in the cottonwoods, fewer permits claimed than spring.",
+      "pros": [
+        "Rare year-round desert stream — constant water and shade",
+        "Excellent wildlife (bighorn, birds)",
+        "Quota keeps it quiet and pristine"
+      ],
+      "cons": [
+        "Tight permit quota — weekends competitive",
+        "Endless creek crossings; wet feet all day",
+        "Remote access roads"
+      ],
+      "tradeoff": "A lush desert oasis if you snag a permit, but the quota is the catch.",
+      "official_site": "https://www.blm.gov/visit/aravaipa-canyon-wilderness",
+      "image": {
+        "file": "aravaipa.jpg",
+        "title": "File:Aravaipa Canyon Wilderness Area (26697285775).jpg",
+        "artist": "BLMArizona",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aravaipa_Canyon_Wilderness_Area_(26697285775).jpg",
+        "width": 1600,
+        "height": 1066,
+        "query": "Aravaipa Canyon Wilderness"
+      },
+      "coordinates": {
+        "lat": 32.893,
+        "lon": -110.516,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.blm.gov/visit/aravaipa-canyon-wilderness",
+        "map": "https://www.google.com/maps/search/?api=1&query=32.893,-110.516",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=32.893&lon=-110.516",
+        "recreation": "https://www.recreation.gov/search?q=Aravaipa%20Canyon",
+        "alltrails": "https://www.alltrails.com/search?q=Aravaipa%20Canyon%20Wilderness"
+      },
+      "plan_it": {
+        "action": "Contested — apply early and keep backup dates.",
+        "nights": "1-2",
+        "water": "Perennial creek — constant water",
+        "risk": "Tight permit quota; wet feet all day",
+        "route": "Aravaipa Canyon (perennial creek walk, east or west entrance)"
+      }
+    },
+    {
+      "id": "superstition",
+      "name": "Superstition Wilderness",
+      "state": "Arizona",
+      "region": "Arizona desert & sky islands",
+      "bookability": "open_access",
+      "bookability_note": "Tonto National Forest — no backpacking permit; dispersed camping. Free campfire permit for stoves/fires.",
+      "best_route": "Peralta to Fremont Saddle / Dutchman's Trail loop",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate",
+      "terrain": "Saguaro desert, rugged volcanic ridges, canyons",
+      "late_october_fit": "Cooler fall temps make this classic Sonoran range comfortable after a brutal summer.",
+      "pros": [
+        "No reservation needed",
+        "Quintessential saguaro-desert scenery",
+        "Flexible loops of varied length"
+      ],
+      "cons": [
+        "Water sources unreliable — plan and carry heavy",
+        "Daytime can still be warm",
+        "Spiny terrain; off-trail navigation in spots"
+      ],
+      "tradeoff": "Permit-free classic desert backpacking, but water scarcity is the constant constraint.",
+      "official_site": "https://www.fs.usda.gov/tonto",
+      "image": {
+        "file": "superstition.jpg",
+        "title": "File:Superstition Mountains.jpg",
+        "artist": "lydia_pirate",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Superstition_Mountains.jpg",
+        "width": 1600,
+        "height": 1060,
+        "query": "Superstition Mountains Arizona"
+      },
+      "coordinates": {
+        "lat": 33.397,
+        "lon": -111.348,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.fs.usda.gov/tonto",
+        "map": "https://www.google.com/maps/search/?api=1&query=33.397,-111.348",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.397&lon=-111.348",
+        "alltrails": "https://www.alltrails.com/search?q=Superstition%20Wilderness"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "Unreliable — carry heavy",
+        "risk": "Water scarcity; warm afternoons",
+        "route": "Peralta to Fremont Saddle / Dutchman's Trail loop"
+      }
+    },
+    {
+      "id": "saguaro-rincon",
+      "name": "Saguaro National Park (Rincon Backcountry)",
+      "state": "Arizona",
+      "region": "Arizona desert & sky islands",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry permits via recreation.gov; generally available for fall.",
+      "best_route": "Douglas Spring / Manning Camp loop into the Rincon Mountains",
+      "suggested_nights": "1-3",
+      "difficulty": "Strenuous (big elevation gain)",
+      "terrain": "Saguaro desert rising into pine-clad sky-island peaks",
+      "late_october_fit": "Desert floor is pleasant and the high country is crisp but not yet snowbound.",
+      "pros": [
+        "Climb from cactus desert to pine forest in one trip",
+        "Bookable permits and designated camps with some water",
+        "Quiet backcountry beside a popular day-use park"
+      ],
+      "cons": [
+        "Significant elevation gain to the high camps",
+        "Water planning needed on lower stretches",
+        "Cold nights up high"
+      ],
+      "tradeoff": "A full ecological gradient in one hike, at the cost of a steep climb.",
+      "official_site": "https://www.nps.gov/sagu",
+      "image": {
+        "file": "saguaro-rincon.jpg",
+        "title": "File:Saguaro cactus, Saguaro National Park (Rincon Mountain District), Arizona (6715f5bb-4bb8-49bd-a9e1-b59d8baf5318).jpg",
+        "artist": "Alice Wondrak-Biel",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Saguaro_cactus,_Saguaro_National_Park_(Rincon_Mountain_District),_Arizona_(6715f5bb-4bb8-49bd-a9e1-b59d8baf5318).jpg",
+        "width": 1200,
+        "height": 900,
+        "query": "Rincon Mountains Saguaro National Park"
+      },
+      "coordinates": {
+        "lat": 32.223,
+        "lon": -110.705,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/sagu",
+        "map": "https://www.google.com/maps/search/?api=1&query=32.223,-110.705",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=32.223&lon=-110.705",
+        "recreation": "https://www.recreation.gov/search?q=Saguaro%20National%20Park",
+        "alltrails": "https://www.alltrails.com/search?q=Saguaro%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-3",
+        "water": "Some at high camps; plan lower legs",
+        "risk": "Big climb; cold nights up high",
+        "route": "Douglas Spring / Manning Camp loop into the Rincon Mountains"
+      }
+    },
+    {
+      "id": "chiricahua",
+      "name": "Chiricahua Mountains (Coronado National Forest)",
+      "state": "Arizona",
+      "region": "Arizona desert & sky islands",
+      "bookability": "open_access",
+      "bookability_note": "National forest wilderness — no permit for backpacking; dispersed camping.",
+      "best_route": "Chiricahua Wilderness loops from Rustler Park / Snowshed",
+      "suggested_nights": "1-3",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Sky-island pine forest, rhyolite pinnacles, canyons",
+      "late_october_fit": "Sky-island elevation is crisp and colorful in fall; lower trails stay mild.",
+      "pros": [
+        "No permit; remote and uncrowded",
+        "Exceptional biodiversity and birding",
+        "Dramatic rock formations"
+      ],
+      "cons": [
+        "Very remote corner of Arizona",
+        "Some areas affected by past wildfire",
+        "Water sources seasonal/unreliable"
+      ],
+      "tradeoff": "True solitude and unique terrain, but far from anything and fire-scarred in places.",
+      "official_site": "https://www.fs.usda.gov/coronado",
+      "image": {
+        "file": "chiricahua.jpg",
+        "title": "File:Chiricahua mtns-kmf.JPG",
+        "artist": "Karen Fasimpaur",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chiricahua_mtns-kmf.JPG",
+        "width": 1600,
+        "height": 1200,
+        "query": "Chiricahua Mountains Arizona"
+      },
+      "coordinates": {
+        "lat": 31.912,
+        "lon": -109.279,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.fs.usda.gov/coronado",
+        "map": "https://www.google.com/maps/search/?api=1&query=31.912,-109.279",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=31.912&lon=-109.279",
+        "alltrails": "https://www.alltrails.com/search?q=Chiricahua%20Mountains"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-3",
+        "water": "Seasonal / unreliable",
+        "risk": "Very remote; fire-scarred in places",
+        "route": "Chiricahua Wilderness loops from Rustler Park / Snowshed"
+      }
+    },
+    {
+      "id": "gila",
+      "name": "Gila Wilderness (Gila River Route)",
+      "state": "New Mexico",
+      "region": "New Mexico",
+      "bookability": "open_access",
+      "bookability_note": "No permit required for backpacking in the wilderness.",
+      "best_route": "Gila River canyon from the Gila Cliff Dwellings area",
+      "suggested_nights": "2-4",
+      "difficulty": "Moderate",
+      "terrain": "River canyon, hot springs, ponderosa forest",
+      "late_october_fit": "Lower river routes are mild and colorful; the nation's first wilderness, largely to yourself.",
+      "pros": [
+        "No permit and enormous, wild terrain",
+        "Riverside hot springs and reliable water on river routes",
+        "Profound solitude"
+      ],
+      "cons": [
+        "Many river crossings; high water possible after rain",
+        "Remote; long drive to trailheads",
+        "Higher side-routes can be cold/snowy"
+      ],
+      "tradeoff": "Big, free, lonely wilderness, but river crossings and remoteness raise the commitment.",
+      "official_site": "https://www.fs.usda.gov/gila",
+      "image": {
+        "file": "gila.jpg",
+        "title": "File:A beaver dam spans a section of the Middle Fork of the Gila River.jpg",
+        "artist": "Matthew.kowal",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_beaver_dam_spans_a_section_of_the_Middle_Fork_of_the_Gila_River.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Gila Wilderness New Mexico"
+      },
+      "coordinates": {
+        "lat": 33.227,
+        "lon": -108.262,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.fs.usda.gov/gila",
+        "map": "https://www.google.com/maps/search/?api=1&query=33.227,-108.262",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.227&lon=-108.262",
+        "alltrails": "https://www.alltrails.com/search?q=Gila%20Wilderness"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "2-4",
+        "water": "Reliable on river routes + hot springs",
+        "risk": "Many river crossings; remote",
+        "route": "Gila River canyon from the Gila Cliff Dwellings area"
+      }
+    },
+    {
+      "id": "big-bend",
+      "name": "Big Bend National Park",
+      "state": "Texas",
+      "region": "Texas",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry permits on recreation.gov up to 6 months out; fall availability is usually good.",
+      "best_route": "South Rim loop in the Chisos Mountains (~12-14 miles)",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Desert basin rising into a forested mountain sky island",
+      "late_october_fit": "Backpacking season effectively STARTS now — summer is dangerously hot.",
+      "pros": [
+        "Permits readily available for late October",
+        "Dramatic sky-island views into Mexico",
+        "Deep solitude — one of the least-visited big parks"
+      ],
+      "cons": [
+        "Extremely remote location and limited services",
+        "Water caching/planning needed on some routes",
+        "Long drives between trailheads"
+      ],
+      "tradeoff": "Easiest marquee permit to grab, but the remoteness is a real commitment.",
+      "official_site": "https://www.nps.gov/bibe",
+      "image": {
+        "file": "big-bend.jpg",
+        "title": "File:Big Bend Chihuahuan Desert.jpg",
+        "artist": "Adbar",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Big_Bend_Chihuahuan_Desert.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Chisos Mountains Big Bend"
+      },
+      "coordinates": {
+        "lat": 29.27,
+        "lon": -103.3,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/bibe",
+        "map": "https://www.google.com/maps/search/?api=1&query=29.27,-103.3",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=29.27&lon=-103.3",
+        "recreation": "https://www.recreation.gov/search?q=Big%20Bend",
+        "alltrails": "https://www.alltrails.com/search?q=Big%20Bend%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Cache/plan on some routes",
+        "risk": "Extreme remoteness; long drives",
+        "route": "South Rim loop in the Chisos Mountains (~12-14 miles)"
+      }
+    },
+    {
+      "id": "guadalupe-mtns",
+      "name": "Guadalupe Mountains National Park",
+      "state": "Texas",
+      "region": "Texas",
+      "bookability": "easy_now",
+      "bookability_note": "Wilderness permits via the park's reservation system; generally available, though designated sites are limited.",
+      "best_route": "Tejas / Bowl loop through the high country; McKittrick Canyon for fall color",
+      "suggested_nights": "1-2",
+      "difficulty": "Strenuous (steep climbs)",
+      "terrain": "Desert-to-conifer mountains; maple-lined canyon",
+      "late_october_fit": "One of the few Southwest spots with real fall foliage — McKittrick Canyon maples peak late Oct/early Nov.",
+      "pros": [
+        "Genuine autumn color in the desert Southwest",
+        "Highest peak in Texas plus dramatic ridges",
+        "Bookable and uncrowded"
+      ],
+      "cons": [
+        "Notoriously fierce, sustained winds",
+        "Dry camps — carry all water to the high sites",
+        "Steep, demanding climbs"
+      ],
+      "tradeoff": "Desert foliage and big views, but wind and waterless camps test you.",
+      "official_site": "https://www.nps.gov/gumo",
+      "image": {
+        "file": "guadalupe-mtns.jpg",
+        "title": "File:El Capitan base 2005-03-12.jpg",
+        "artist": "Geoffrey J. King",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source_url": "https://commons.wikimedia.org/wiki/File:El_Capitan_base_2005-03-12.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "El Capitan Guadalupe Mountains Texas"
+      },
+      "coordinates": {
+        "lat": 31.8975,
+        "lon": -104.8276,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/gumo",
+        "map": "https://www.google.com/maps/search/?api=1&query=31.8975,-104.8276",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=31.8975&lon=-104.8276",
+        "alltrails": "https://www.alltrails.com/search?q=Guadalupe%20Mountains%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Dry camps — carry all water",
+        "risk": "Fierce sustained winds; steep climbs",
+        "route": "Tejas / Bowl loop through the high country; McKittrick Canyon for fall color"
+      }
+    },
+    {
+      "id": "joshua-tree",
+      "name": "Joshua Tree National Park",
+      "state": "California",
+      "region": "California desert",
+      "bookability": "open_access",
+      "bookability_note": "No advance backcountry permit; free self-registration at backcountry boards.",
+      "best_route": "Boy Scout Trail / Willow Hole or a California Riding & Hiking Trail section",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "High desert, granite boulders, Joshua tree forest",
+      "late_october_fit": "Prime season — summer heat broken, cool nights, excellent stargazing.",
+      "pros": [
+        "Zero booking friction — go any weekend",
+        "Surreal scenery and world-class night skies",
+        "Beginner-friendly terrain and navigation"
+      ],
+      "cons": [
+        "Must pack in ALL water — no reliable sources",
+        "Cold nights (can dip below freezing)",
+        "Day-use crowds near trailheads (backcountry thins fast)"
+      ],
+      "tradeoff": "Maximum flexibility and ease, but you carry every drop of water.",
+      "official_site": "https://www.nps.gov/jotr",
+      "image": {
+        "file": "joshua-tree.jpg",
+        "title": "File:Joshua Tree National Park 2013.jpg",
+        "artist": "Tuxyso",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_2013.jpg",
+        "width": 1600,
+        "height": 982,
+        "query": "Joshua Tree National Park landscape"
+      },
+      "coordinates": {
+        "lat": 34.02,
+        "lon": -116.162,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/jotr",
+        "map": "https://www.google.com/maps/search/?api=1&query=34.02,-116.162",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.02&lon=-116.162",
+        "alltrails": "https://www.alltrails.com/search?q=Joshua%20Tree%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "None — pack in all water",
+        "risk": "No water; nights below freezing",
+        "route": "Boy Scout Trail / Willow Hole or a California Riding & Hiking Trail section"
+      }
+    },
+    {
+      "id": "death-valley",
+      "name": "Death Valley National Park",
+      "state": "California",
+      "region": "California desert",
+      "bookability": "open_access",
+      "bookability_note": "No permit required for backcountry backpacking; free voluntary registration.",
+      "best_route": "Cottonwood–Marble Canyons loop",
+      "suggested_nights": "2-3",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Canyon country, dunes, salt flats, vast open desert",
+      "late_october_fit": "Flips into its pleasant season — summer is lethal, late October is hikeable.",
+      "pros": [
+        "No permit hassle and total solitude",
+        "Otherworldly, varied geology",
+        "Incredible dark skies"
+      ],
+      "cons": [
+        "Water is extremely scarce — heavy carry or careful planning",
+        "Remote; long rough-road drives between trailheads",
+        "Navigation demands experience"
+      ],
+      "tradeoff": "Epic emptiness for free, but the most logistically demanding desert option on water and access.",
+      "official_site": "https://www.nps.gov/deva",
+      "image": {
+        "file": "death-valley.jpg",
+        "title": "File:SR 190 Panamint Springs Resort End Death Valley 2013.jpg",
+        "artist": "Tuxyso",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:SR_190_Panamint_Springs_Resort_End_Death_Valley_2013.jpg",
+        "width": 1600,
+        "height": 992,
+        "query": "Death Valley National Park landscape"
+      },
+      "coordinates": {
+        "lat": 36.605,
+        "lon": -117.145,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/deva",
+        "map": "https://www.google.com/maps/search/?api=1&query=36.605,-117.145",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.605&lon=-117.145",
+        "alltrails": "https://www.alltrails.com/search?q=Death%20Valley%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "2-3",
+        "water": "Extremely scarce — heavy carry",
+        "risk": "Water + navigation; rough-road access",
+        "route": "Cottonwood–Marble Canyons loop"
+      }
+    },
+    {
+      "id": "mojave-preserve",
+      "name": "Mojave National Preserve",
+      "state": "California",
+      "region": "California desert",
+      "bookability": "open_access",
+      "bookability_note": "No permit for backcountry/roadside dispersed camping; very few restrictions.",
+      "best_route": "Kelso Dunes area or the Mid Hills / Table Mountain backcountry",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "Sand dunes, Joshua tree forest, volcanic cinder cones, mesas",
+      "late_october_fit": "Mild, empty, and ideal once the summer heat fades.",
+      "pros": [
+        "No permit and almost no crowds",
+        "Diverse terrain in one preserve",
+        "Outstanding dark skies"
+      ],
+      "cons": [
+        "No water — carry everything",
+        "Faint routes; strong navigation needed",
+        "Remote with minimal services"
+      ],
+      "tradeoff": "Vast free desert solitude, but you supply all water and routefinding.",
+      "official_site": "https://www.nps.gov/moja",
+      "image": {
+        "file": "mojave-preserve.jpg",
+        "title": "File:Mojave National Preserve Kelso Dunes (49461666752).jpg",
+        "artist": "Joshua Tree National Park",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mojave_National_Preserve_Kelso_Dunes_(49461666752).jpg",
+        "width": 1600,
+        "height": 1068,
+        "query": "Kelso Dunes Mojave"
+      },
+      "coordinates": {
+        "lat": 34.897,
+        "lon": -115.71,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/moja",
+        "map": "https://www.google.com/maps/search/?api=1&query=34.897,-115.71",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.897&lon=-115.71",
+        "alltrails": "https://www.alltrails.com/search?q=Mojave%20National%20Preserve"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "None — carry everything",
+        "risk": "No water; faint routes, navigation",
+        "route": "Kelso Dunes area or the Mid Hills / Table Mountain backcountry"
+      }
+    },
+    {
+      "id": "anza-borrego",
+      "name": "Anza-Borrego Desert State Park",
+      "state": "California",
+      "region": "California desert",
+      "bookability": "open_access",
+      "bookability_note": "Open dispersed backcountry camping with few restrictions; no reservation for backcountry.",
+      "best_route": "Coyote Canyon or the slot canyons / Borrego Palm Canyon area",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "Badlands, palm oases, slot canyons, open desert",
+      "late_october_fit": "Cooling into its prime season; palm oases offer shade and occasional water.",
+      "pros": [
+        "Free, flexible dispersed camping",
+        "Palm oases, slot canyons, and badlands variety",
+        "Largest state park in California — room to roam"
+      ],
+      "cons": [
+        "Water generally must be carried",
+        "Can still be hot early in the season",
+        "Sandy/4WD access to some areas"
+      ],
+      "tradeoff": "Easy-access desert freedom, but it's hit-or-miss on early-season heat and water.",
+      "official_site": "https://www.parks.ca.gov/?page_id=638",
+      "image": {
+        "file": "anza-borrego.jpg",
+        "title": "File:2017-03-11 USA, CA, Anza-Borrego DSC 1358 DxO.jpg",
+        "artist": "Laurens R. Krol",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2017-03-11_USA,_CA,_Anza-Borrego_DSC_1358_DxO.jpg",
+        "width": 1600,
+        "height": 1063,
+        "query": "Anza-Borrego Desert State Park"
+      },
+      "coordinates": {
+        "lat": 33.27,
+        "lon": -116.415,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.parks.ca.gov/?page_id=638",
+        "map": "https://www.google.com/maps/search/?api=1&query=33.27,-116.415",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.27&lon=-116.415",
+        "alltrails": "https://www.alltrails.com/search?q=Anza-Borrego%20Desert%20State%20Park"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "Carry water (a few palm oases)",
+        "risk": "Early-season heat; sandy/4WD access",
+        "route": "Coyote Canyon or the slot canyons / Borrego Palm Canyon area"
+      }
+    },
+    {
+      "id": "trans-catalina",
+      "name": "Trans-Catalina Trail (Catalina Island)",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "easy_now",
+      "bookability_note": "Reserve campsites via Catalina Island Conservancy + a free hiking permit; book the Catalina Express ferry. Fall has good availability.",
+      "best_route": "Trans-Catalina Trail (Avalon to Two Harbors), ~38.5 miles or shorter sections",
+      "suggested_nights": "2-4",
+      "difficulty": "Moderate (steep, repeated climbs)",
+      "terrain": "Coastal ridgeline, coves, bison-dotted grasslands",
+      "late_october_fit": "Mild island climate year-round; fall is warm, clear, and uncrowded.",
+      "pros": [
+        "Reliably bookable with designated sites and water",
+        "Ocean views the whole way; mild temps, no freezing nights",
+        "Free-roaming bison are a novelty"
+      ],
+      "cons": [
+        "Ferry logistics and schedule to coordinate",
+        "Lots of elevation gain for the mileage",
+        "Campsites can be exposed/windy"
+      ],
+      "tradeoff": "Easy to book and mild, but you trade true wilderness and pay for ferries.",
+      "official_site": "https://www.catalinaconservancy.org",
+      "image": {
+        "file": "trans-catalina.jpg",
+        "title": "File:Two Harbors Catalina Island CA south side aerial by Don Ramey Logan.jpg",
+        "artist": "Don Ramey Logan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Two_Harbors_Catalina_Island_CA_south_side_aerial_by_Don_Ramey_Logan.jpg",
+        "width": 1600,
+        "height": 1068,
+        "query": "Two Harbors Santa Catalina Island"
+      },
+      "coordinates": {
+        "lat": 33.39,
+        "lon": -118.417,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.catalinaconservancy.org",
+        "map": "https://www.google.com/maps/search/?api=1&query=33.39,-118.417",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.39&lon=-118.417",
+        "alltrails": "https://www.alltrails.com/search?q=Trans-Catalina%20Trail"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "2-4",
+        "water": "Water at designated campsites",
+        "risk": "Ferry logistics; lots of climbing",
+        "route": "Trans-Catalina Trail (Avalon to Two Harbors), ~38.5 miles or shorter sections"
+      }
+    },
+    {
+      "id": "channel-islands",
+      "name": "Channel Islands National Park (Santa Cruz / Santa Rosa)",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "easy_now",
+      "bookability_note": "Reserve campsites on recreation.gov + book the Island Packers ferry. Rarely sells out for fall.",
+      "best_route": "Santa Cruz Island (Scorpion to Smugglers / Potato Harbor) or backcountry Santa Rosa",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "Sea-cliff coastline, island interior, endemic wildlife",
+      "late_october_fit": "Mild year-round; fall is calm and quiet with great wildlife viewing.",
+      "pros": [
+        "Remote island feel with minimal crowds",
+        "Endemic foxes, sea caves, kayaking/snorkeling add-ons",
+        "Mild temperatures"
+      ],
+      "cons": [
+        "Must pack in all food; limited water depending on island/site",
+        "Ferry-dependent — weather can disrupt crossings",
+        "Windy, exposed campsites and a small trail network"
+      ],
+      "tradeoff": "A true island adventure that's easy to reserve, but small trail system and ferry weather risk.",
+      "official_site": "https://www.nps.gov/chis",
+      "image": {
+        "file": "channel-islands.jpg",
+        "title": "File:Channel Islands National Park - Santa Cruz Island - beach area with kayakers.jpg",
+        "artist": "Joyful Graphics",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers.jpg",
+        "width": 1600,
+        "height": 1200,
+        "query": "Santa Cruz Island Channel Islands"
+      },
+      "coordinates": {
+        "lat": 34.049,
+        "lon": -119.557,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/chis",
+        "map": "https://www.google.com/maps/search/?api=1&query=34.049,-119.557",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.049&lon=-119.557",
+        "recreation": "https://www.recreation.gov/search?q=Channel%20Islands",
+        "alltrails": "https://www.alltrails.com/search?q=Channel%20Islands%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Limited — depends on the site",
+        "risk": "Ferry weather; exposed, windy camps",
+        "route": "Santa Cruz Island (Scorpion to Smugglers / Potato Harbor) or backcountry Santa Rosa"
+      }
+    },
+    {
+      "id": "point-reyes",
+      "name": "Point Reyes National Seashore",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry campsites reservable on recreation.gov; fall midweek is wide open.",
+      "best_route": "Coast Camp / Wildcat Camp via the Coast Trail",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "Coastal bluffs, beaches, grasslands, forest",
+      "late_october_fit": "Mild maritime climate; fall is often the clearest, calmest season here.",
+      "pros": [
+        "Reliable reservations and gentle terrain",
+        "Beachfront camps and dramatic coastline",
+        "Great for less-experienced backpackers"
+      ],
+      "cons": [
+        "Fog can roll in and obscure views",
+        "Short mileage between camps (less remote feel)",
+        "Popular weekends still book up"
+      ],
+      "tradeoff": "Easy, scenic, low-commitment coastal backpacking, but not a big-wilderness experience.",
+      "official_site": "https://www.nps.gov/pore",
+      "image": {
+        "file": "point-reyes.jpg",
+        "title": "File:Point Reyes Lighthouse in December 2019.jpg",
+        "artist": "Frank Schulenburg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Point_Reyes_Lighthouse_in_December_2019.jpg",
+        "width": 1600,
+        "height": 1280,
+        "query": "Point Reyes National Seashore coast"
+      },
+      "coordinates": {
+        "lat": 38.04,
+        "lon": -122.8,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/pore",
+        "map": "https://www.google.com/maps/search/?api=1&query=38.04,-122.8",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.04&lon=-122.8",
+        "recreation": "https://www.recreation.gov/search?q=Point%20Reyes",
+        "alltrails": "https://www.alltrails.com/search?q=Point%20Reyes%20National%20Seashore"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Water at the camps",
+        "risk": "Coastal fog; popular weekends book up",
+        "route": "Coast Camp / Wildcat Camp via the Coast Trail"
+      }
+    },
+    {
+      "id": "lost-coast",
+      "name": "Lost Coast Trail (King Range)",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "easy_now",
+      "bookability_note": "Daily quota permit on recreation.gov; late October is shoulder season, so generally available now.",
+      "best_route": "Mattole to Black Sands Beach (~25 miles, northbound)",
+      "suggested_nights": "2-3",
+      "difficulty": "Moderate, with tide-timed sections",
+      "terrain": "Black-sand beaches, sea bluffs, no-road wilderness coastline",
+      "late_october_fit": "Low elevation stays hikeable when mountains close out; fewer crowds than summer.",
+      "pros": [
+        "Bookable now for a marquee, bucket-list coastal route",
+        "Stunning, roadless wilderness coastline",
+        "Reliable water from creeks crossing the trail"
+      ],
+      "cons": [
+        "Tide tables are mandatory — some stretches impassable at high tide",
+        "Soft sand and round rock make tiring miles",
+        "Fall weather can bring rain/fog; shuttle logistics required"
+      ],
+      "tradeoff": "A world-class trip you can still book, but tide-dependent and weather-exposed.",
+      "official_site": "https://www.blm.gov/visit/kingrange",
+      "image": {
+        "file": "lost-coast.jpg",
+        "title": "File:Lost Coast Trail, The King Range National Conservation Area (50211682538).jpg",
+        "artist": "blmcalifornia",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lost_Coast_Trail,_The_King_Range_National_Conservation_Area_(50211682538).jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Lost Coast King Range California"
+      },
+      "coordinates": {
+        "lat": 40.249,
+        "lon": -124.353,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.blm.gov/visit/kingrange",
+        "map": "https://www.google.com/maps/search/?api=1&query=40.249,-124.353",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=40.249&lon=-124.353",
+        "recreation": "https://www.recreation.gov/search?q=Lost%20Coast",
+        "alltrails": "https://www.alltrails.com/search?q=Lost%20Coast%20Trail"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "2-3",
+        "water": "Reliable creek water",
+        "risk": "Tide tables mandatory; soft sand miles",
+        "route": "Mattole to Black Sands Beach (~25 miles, northbound)"
+      }
+    },
+    {
+      "id": "sespe",
+      "name": "Sespe Wilderness / Los Padres National Forest",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "open_access",
+      "bookability_note": "No backcountry permit for backpacking; free California Campfire Permit for stoves/fires, Adventure Pass at some trailheads. CHECK current fire/seasonal closures.",
+      "best_route": "Piedra Blanca / Sespe River Trail toward Sespe Hot Springs",
+      "suggested_nights": "1-3",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Chaparral, river canyon, sandstone formations, hot springs",
+      "late_october_fit": "Cooler fall temps make the exposed, low-water canyon comfortable; payoff is wild hot springs.",
+      "pros": [
+        "No reservation needed",
+        "Natural hot springs as a destination",
+        "Solitude and a true local-wilderness feel"
+      ],
+      "cons": [
+        "Fire closures are common in Los Padres — verify before you go",
+        "Limited/seasonal water; condor-sanctuary closures in spots",
+        "Faint trails and long approach to the springs"
+      ],
+      "tradeoff": "Permit-free trip to wild hot springs, but the most closure-prone and least certain to be open.",
+      "official_site": "https://www.fs.usda.gov/lpnf",
+      "image": {
+        "file": "sespe.jpg",
+        "title": "File:Sespe Wilderness.JPG",
+        "artist": "Blackmb",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sespe_Wilderness.JPG",
+        "width": 1600,
+        "height": 1200,
+        "query": "Sespe Wilderness"
+      },
+      "coordinates": {
+        "lat": 34.547,
+        "lon": -119.149,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.fs.usda.gov/lpnf",
+        "map": "https://www.google.com/maps/search/?api=1&query=34.547,-119.149",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.547&lon=-119.149",
+        "alltrails": "https://www.alltrails.com/search?q=Sespe%20Wilderness%20%2F%20Los%20Padres%20National%20Forest"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-3",
+        "water": "Limited / seasonal",
+        "risk": "Fire closures common; faint trails",
+        "route": "Piedra Blanca / Sespe River Trail toward Sespe Hot Springs"
+      }
+    },
+    {
+      "id": "olympic-coast",
+      "name": "Olympic National Park (Wilderness Coast)",
+      "state": "Washington",
+      "region": "California & Pacific coast",
+      "bookability": "easy_now",
+      "bookability_note": "Wilderness camping permits via recreation.gov; bear canister required. Bookable, but expect rain.",
+      "best_route": "Ozette Triangle or the South Coast (Third Beach to Oil City)",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate, with tide-timed headlands",
+      "terrain": "Wild Pacific beaches, sea stacks, rainforest fringe",
+      "late_october_fit": "Low-elevation coast stays hikeable while the mountains shut down — but it's the wet season.",
+      "pros": [
+        "Dramatic, remote wilderness coastline and sea stacks",
+        "Permits generally available in the off-season",
+        "Abundant water and tide-pool wildlife"
+      ],
+      "cons": [
+        "Frequent heavy rain in late October",
+        "Tide tables mandatory for headland crossings",
+        "Slippery, rugged terrain; bear canister required"
+      ],
+      "tradeoff": "Spectacular and bookable, but you're betting against Pacific Northwest rain.",
+      "official_site": "https://www.nps.gov/olym",
+      "image": {
+        "file": "olympic-coast.jpg",
+        "title": "File:Sea stacks off Rialto Beach Olympic National Park.jpg",
+        "artist": "Lianguanlun",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sea_stacks_off_Rialto_Beach_Olympic_National_Park.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Rialto Beach sea stacks Olympic"
+      },
+      "coordinates": {
+        "lat": 47.919,
+        "lon": -124.64,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/olym",
+        "map": "https://www.google.com/maps/search/?api=1&query=47.919,-124.64",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=47.919&lon=-124.64",
+        "recreation": "https://www.recreation.gov/search?q=Olympic",
+        "alltrails": "https://www.alltrails.com/search?q=Olympic%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-2",
+        "water": "Abundant — treat it",
+        "risk": "Heavy rain; tide timing; bear canister",
+        "route": "Ozette Triangle or the South Coast (Third Beach to Oil City)"
+      }
+    },
+    {
+      "id": "great-smoky",
+      "name": "Great Smoky Mountains National Park",
+      "state": "Tennessee / North Carolina",
+      "region": "Appalachians & Southeast",
+      "bookability": "easy_now",
+      "bookability_note": "Backcountry permits/reservations via the park's smokiespermits system; generally bookable now, though popular shelters can fill.",
+      "best_route": "Appalachian Trail section or a Deep Creek / Hazel Creek loop",
+      "suggested_nights": "2-3",
+      "difficulty": "Moderate to strenuous",
+      "terrain": "Forested ridgelines, streams, peak foliage at lower elevations",
+      "late_october_fit": "Lower elevations hit peak fall color in late October — the classic foliage trip.",
+      "pros": [
+        "Spectacular autumn color and abundant water",
+        "Large trail network with many loop options",
+        "Permits generally available"
+      ],
+      "cons": [
+        "Cold, wet weather possible; early snow at high elevations",
+        "Black bear country — strict food storage",
+        "Popular shelters/sites can book up"
+      ],
+      "tradeoff": "Premier foliage backpacking, but variable mountain weather and bear protocols.",
+      "official_site": "https://www.nps.gov/grsm",
+      "image": {
+        "file": "great-smoky.jpg",
+        "title": "File:Meadow in the Smoky Mountains (41665h).jpg",
+        "artist": "Rhododendrites",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Meadow_in_the_Smoky_Mountains_(41665h).jpg",
+        "width": 1600,
+        "height": 1096,
+        "query": "Great Smoky Mountains autumn"
+      },
+      "coordinates": {
+        "lat": 35.6118,
+        "lon": -83.4249,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/grsm",
+        "map": "https://www.google.com/maps/search/?api=1&query=35.6118,-83.4249",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=35.6118&lon=-83.4249",
+        "alltrails": "https://www.alltrails.com/search?q=Great%20Smoky%20Mountains%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "2-3",
+        "water": "Abundant streams",
+        "risk": "Cold/wet; bears; shelters can fill",
+        "route": "Appalachian Trail section or a Deep Creek / Hazel Creek loop"
+      }
+    },
+    {
+      "id": "shenandoah",
+      "name": "Shenandoah National Park",
+      "state": "Virginia",
+      "region": "Appalachians & Southeast",
+      "bookability": "open_access",
+      "bookability_note": "Free backcountry permit, self-registered; no quota for most areas.",
+      "best_route": "Appalachian Trail / Old Rag and Whiteoak Canyon loops off Skyline Drive",
+      "suggested_nights": "1-3",
+      "difficulty": "Moderate",
+      "terrain": "Blue Ridge forest, waterfalls, ridgeline views",
+      "late_october_fit": "Foliage peaks mid-to-late October along the Blue Ridge; easy free permits.",
+      "pros": [
+        "Free, low-hassle permits and easy access",
+        "Beautiful fall color and waterfalls",
+        "Plentiful water and well-marked trails"
+      ],
+      "cons": [
+        "Foliage-season crowds on Skyline Drive corridor",
+        "Cold snaps and possible early frost",
+        "Bear country — proper food storage required"
+      ],
+      "tradeoff": "Among the easiest foliage backpacking to just go do, but the corridor draws leaf-peeper crowds.",
+      "official_site": "https://www.nps.gov/shen",
+      "image": {
+        "file": "shenandoah.jpg",
+        "title": "File:Shenandoah national park autumn.jpg",
+        "artist": "Roffle",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Shenandoah_national_park_autumn.jpg",
+        "width": 1600,
+        "height": 833,
+        "query": "Shenandoah National Park autumn"
+      },
+      "coordinates": {
+        "lat": 38.5708,
+        "lon": -78.2869,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/shen",
+        "map": "https://www.google.com/maps/search/?api=1&query=38.5708,-78.2869",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.5708&lon=-78.2869",
+        "alltrails": "https://www.alltrails.com/search?q=Shenandoah%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-3",
+        "water": "Plentiful water",
+        "risk": "Leaf-peeper crowds; possible early frost",
+        "route": "Appalachian Trail / Old Rag and Whiteoak Canyon loops off Skyline Drive"
+      }
+    },
+    {
+      "id": "dolly-sods",
+      "name": "Dolly Sods Wilderness",
+      "state": "West Virginia",
+      "region": "Appalachians & Southeast",
+      "bookability": "open_access",
+      "bookability_note": "Monongahela National Forest wilderness — no permit; dispersed camping.",
+      "best_route": "Dolly Sods loop (Rohrbaugh / Red Creek trails)",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate",
+      "terrain": "High-plateau bogs, heath barrens, red spruce, open vistas",
+      "late_october_fit": "Striking tundra-like fall color, but the high plateau gets cold and exposed.",
+      "pros": [
+        "Unique, otherworldly high-bog landscape",
+        "No permit and genuine solitude",
+        "Vivid autumn color in the heath"
+      ],
+      "cons": [
+        "Cold, wind, and possible early snow on the exposed plateau",
+        "Boggy, wet trails and frequent water crossings",
+        "Navigation can be tricky in fog"
+      ],
+      "tradeoff": "A one-of-a-kind landscape for free, but the weather exposure is the price.",
+      "official_site": "https://www.fs.usda.gov/mnf",
+      "image": {
+        "file": "dolly-sods.jpg",
+        "title": "File:Dolly Sods - July 2019 - 26.jpg",
+        "artist": "Jarek Tuszyński",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dolly_Sods_-_July_2019_-_26.jpg",
+        "width": 1600,
+        "height": 1200,
+        "query": "Dolly Sods Wilderness"
+      },
+      "coordinates": {
+        "lat": 39.048,
+        "lon": -79.31,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.fs.usda.gov/mnf",
+        "map": "https://www.google.com/maps/search/?api=1&query=39.048,-79.31",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=39.048&lon=-79.31",
+        "alltrails": "https://www.alltrails.com/search?q=Dolly%20Sods%20Wilderness"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-2",
+        "water": "Frequent crossings — treat",
+        "risk": "Cold, wind, snow; boggy; foggy navigation",
+        "route": "Dolly Sods loop (Rohrbaugh / Red Creek trails)"
+      }
+    },
+    {
+      "id": "cumberland-island",
+      "name": "Cumberland Island National Seashore",
+      "state": "Georgia",
+      "region": "Appalachians & Southeast",
+      "bookability": "easy_now",
+      "bookability_note": "Campsite + ferry reservations via recreation.gov and the park ferry; fall is comfortable and bookable.",
+      "best_route": "Sea Camp to Hickory Hill / Stafford backcountry sites",
+      "suggested_nights": "1-3",
+      "difficulty": "Easy to moderate",
+      "terrain": "Maritime forest, wild beaches, salt marsh, live oaks",
+      "late_october_fit": "Summer heat and bugs ease; mild, atmospheric coastal backpacking with wild horses.",
+      "pros": [
+        "Mild fall weather and easy terrain",
+        "Wild horses, beaches, and Spanish-moss forest",
+        "Reservable sites and ferry"
+      ],
+      "cons": [
+        "Ferry-dependent with limited daily capacity",
+        "Must pack in everything; treat/carry water",
+        "Lingering bugs and humidity early in the season"
+      ],
+      "tradeoff": "Uniquely atmospheric coastal trip that's easy to book, but ferry logistics gate access.",
+      "official_site": "https://www.nps.gov/cuis",
+      "image": {
+        "file": "cumberland-island.jpg",
+        "title": "File:DSC0224a.jpg",
+        "artist": "P. Hughes",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DSC0224a.jpg",
+        "width": 1600,
+        "height": 1063,
+        "query": "Cumberland Island National Seashore"
+      },
+      "coordinates": {
+        "lat": 30.763,
+        "lon": -81.458,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/cuis",
+        "map": "https://www.google.com/maps/search/?api=1&query=30.763,-81.458",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=30.763&lon=-81.458",
+        "recreation": "https://www.recreation.gov/search?q=Cumberland%20Island",
+        "alltrails": "https://www.alltrails.com/search?q=Cumberland%20Island%20National%20Seashore"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-3",
+        "water": "Treat/carry water",
+        "risk": "Ferry capacity; early-season bugs",
+        "route": "Sea Camp to Hickory Hill / Stafford backcountry sites"
+      }
+    },
+    {
+      "id": "ozark-highlands",
+      "name": "Ozark Highlands Trail / Buffalo River Area",
+      "state": "Arkansas",
+      "region": "Ozarks",
+      "bookability": "open_access",
+      "bookability_note": "National forest / national river — no permit for most backpacking; dispersed camping.",
+      "best_route": "Ozark Highlands Trail sections or the Buffalo River Trail",
+      "suggested_nights": "1-3",
+      "difficulty": "Moderate",
+      "terrain": "Hardwood forest, bluffs, waterfalls, river valleys",
+      "late_october_fit": "Peak Ozark fall color with mild days and crisp nights.",
+      "pros": [
+        "Excellent, underrated autumn foliage",
+        "No permit and abundant water",
+        "Bluff-top views and waterfalls"
+      ],
+      "cons": [
+        "Trail can be overgrown or faint in sections",
+        "Frequent creek crossings (high after rain)",
+        "Ticks/chiggers can linger in warm spells"
+      ],
+      "tradeoff": "Quiet, beautiful foliage backpacking for free, but trail conditions are rougher than marquee parks.",
+      "official_site": "https://www.nps.gov/buff",
+      "image": {
+        "file": "ozark-highlands.jpg",
+        "title": "File:Buffalo National River at Carver Landing 002.jpg",
+        "artist": "Brandonrush",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Buffalo_National_River_at_Carver_Landing_002.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Buffalo National River Arkansas"
+      },
+      "coordinates": {
+        "lat": 36.022,
+        "lon": -93.37,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/buff",
+        "map": "https://www.google.com/maps/search/?api=1&query=36.022,-93.37",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.022&lon=-93.37",
+        "alltrails": "https://www.alltrails.com/search?q=Ozark%20Highlands%20Trail%20%2F%20Buffalo%20River%20Area"
+      },
+      "plan_it": {
+        "action": "Go on a whim — self-register at the trailhead.",
+        "nights": "1-3",
+        "water": "Abundant water",
+        "risk": "Faint trail; creek crossings; ticks",
+        "route": "Ozark Highlands Trail sections or the Buffalo River Trail"
+      }
+    },
+    {
+      "id": "everglades",
+      "name": "Everglades National Park (Backcountry)",
+      "state": "Florida",
+      "region": "Florida",
+      "bookability": "easy_now",
+      "bookability_note": "Wilderness/backcountry permits via recreation.gov. NOTE: late October is the tail of the wet season — better in Nov-Dec.",
+      "best_route": "Coastal chickee/ground sites along the Wilderness Waterway or Cape Sable (often paddle-access)",
+      "suggested_nights": "1-3",
+      "difficulty": "Easy on foot, but logistically complex; many sites are water-access",
+      "terrain": "Mangrove coast, sawgrass, chickee platforms, beaches",
+      "late_october_fit": "A warm-weather option when everywhere else is cooling, but still hot, humid, and buggy this early.",
+      "pros": [
+        "Tropical, totally different from the rest of the list",
+        "Bookable permits and unique paddle-and-camp routes",
+        "Abundant wildlife"
+      ],
+      "cons": [
+        "Heavy mosquitoes and humidity in late October",
+        "Many sites require a canoe/kayak, not just hiking",
+        "Lingering hurricane-season weather risk"
+      ],
+      "tradeoff": "The warmest, most exotic pick, but late October is too early for its prime — expect bugs and heat.",
+      "official_site": "https://www.nps.gov/ever",
+      "image": {
+        "file": "everglades.jpg",
+        "title": "File:Gfp-florida-everglades-national-park-landscape-with-alligators-and-heron.jpg",
+        "artist": "Yinan Chen",
+        "license": "Public Domain",
+        "license_url": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gfp-florida-everglades-national-park-landscape-with-alligators-and-heron.jpg",
+        "width": 1600,
+        "height": 1067,
+        "query": "Everglades National Park landscape"
+      },
+      "coordinates": {
+        "lat": 25.141,
+        "lon": -80.924,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.nps.gov/ever",
+        "map": "https://www.google.com/maps/search/?api=1&query=25.141,-80.924",
+        "weather": "https://forecast.weather.gov/MapClick.php?lat=25.141&lon=-80.924",
+        "recreation": "https://www.recreation.gov/search?q=Everglades",
+        "alltrails": "https://www.alltrails.com/search?q=Everglades%20National%20Park"
+      },
+      "plan_it": {
+        "action": "Reservable now — book soon to lock it in.",
+        "nights": "1-3",
+        "water": "Carry/treat — brackish coast",
+        "risk": "Mosquitoes & heat; many paddle-access sites",
+        "route": "Coastal chickee/ground sites along the Wilderness Waterway or Cape Sable (often paddle-access)"
+      }
+    }
+  ],
+  "ruled_out": [
+    {
+      "id": "havasupai",
+      "name": "Havasupai (Havasu Falls)",
+      "state": "Arizona",
+      "bookability": "unavailable",
+      "reason": "For 2026 the Havasupai Tribe discontinued both the lottery and the transfer board. Permits for desirable dates (including late October) sell out within minutes of release, and the only remaining last-minute path is randomly re-released cancellations on the official booking page — too unreliable to plan around. Late October is also a historically flash-flood-prone window here.",
+      "note": "Worth flagging in the artifact as 'considered but not viable last-minute' so others don't waste time chasing it.",
+      "official_site": "https://www.havasupaireservations.com",
+      "image": {
+        "file": "havasupai.jpg",
+        "title": "File:Havasu falls Arizona.jpg",
+        "artist": "Stolz Gary M, U.S. Fish and Wildlife Service",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Havasu_falls_Arizona.jpg",
+        "width": 1600,
+        "height": 1048,
+        "query": "Havasu Falls Arizona"
+      },
+      "coordinates": {
+        "lat": 36.2552,
+        "lon": -112.698,
+        "approximate": true
+      },
+      "links": {
+        "official": "https://www.havasupaireservations.com",
+        "map": "https://www.google.com/maps/search/?api=1&query=36.2552,-112.698"
+      }
+    }
+  ],
+  "general_tips": [
+    "Daylight is ~11 hours in late October — plan shorter trail days.",
+    "Pack a warm sleeping bag; desert and canyon nights can hit or drop below freezing, and high-elevation entries can see snow.",
+    "For any canyon or river route (Grand Canyon, Narrows, Paria, Coyote Gulch, Aravaipa), pull a fresh flash-flood forecast before committing.",
+    "For coastal routes (Lost Coast, Olympic, Channel Islands), check tide tables and ferry schedules.",
+    "Open-access options (Joshua Tree, Death Valley, Mojave, Anza-Borrego, Superstition, Chiricahua, Gila, Capitol Reef, Coyote Gulch, Sespe, Shenandoah, Dolly Sods, Ozarks) are the safest bets if you truly want to decide last-minute.",
+    "Confirm current permit rules, quotas, and fire/seasonal closures on the official site for each destination before you go."
+  ],
+  "generated_at": "2026-06-22"
+}
