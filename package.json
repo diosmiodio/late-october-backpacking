@@ -1,0 +1,14 @@
+{
+  "name": "late-october-backpacking",
+  "version": "1.0.0",
+  "description": "A mobile-first guide to last-minute late-October backpacking trips across the US.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "enrich": "node scripts/enrich.mjs",
+    "build": "node scripts/build.mjs",
+    "fetch-images": "node scripts/fetch-images.mjs",
+    "serve": "npx --yes serve dist"
+  },
+  "license": "MIT"
+}
