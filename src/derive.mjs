@@ -5,7 +5,10 @@
 
 const enc = encodeURIComponent;
 
-// AllTrails search term: destination name without the parenthetical qualifier.
+// AllTrails has no public search-results URL (its search/explore is interactive
+// only), so we link to a Google search scoped to alltrails.com — that reliably
+// lands on the destination's real AllTrails trail pages. The query is the
+// destination name without its parenthetical qualifier.
 const altQuery = (name) => name.replace(/\s*\(.*?\)\s*/g, " ").trim();
 
 // Short, scannable action phrase per bookability tier.
@@ -27,7 +30,7 @@ function buildLinks(d) {
   if (d.recreation_query) {
     links.recreation = `https://www.recreation.gov/search?q=${enc(d.recreation_query)}`;
   }
-  links.alltrails = `https://www.alltrails.com/search?q=${enc(altQuery(d.name))}`;
+  links.alltrails = `https://www.google.com/search?q=${enc("site:alltrails.com " + altQuery(d.name))}`;
   return links;
 }
 
