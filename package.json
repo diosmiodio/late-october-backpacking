@@ -5,8 +5,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "enrich": "node scripts/enrich.mjs",
-    "build": "node scripts/enrich.mjs && node scripts/build.mjs",
+    "build": "node scripts/build.mjs",
     "fetch-images": "node scripts/fetch-images.mjs",
     "serve": "npx --yes serve dist"
   },

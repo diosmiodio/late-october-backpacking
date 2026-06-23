@@ -1,9 +1,13 @@
-// Fetch real, freely-licensed destination photos from Wikimedia Commons.
+// Fetch real, freely-licensed destination photos from Wikimedia Commons and
+// record them straight into data/destinations.json.
 //
-// For each destination it searches Commons (File namespace), then picks the
-// first candidate that is a landscape JPEG/PNG of decent resolution under a
-// free license (CC BY, CC BY-SA, CC0, or Public Domain). It downloads a
-// ~1600px-wide rendition and records full attribution to assets/images/credits.json.
+// Each trip may carry an optional "image_query": a search term, or an array of
+// fallback terms, used to find a landscape JPEG/PNG of decent resolution under
+// a free license (CC BY, CC BY-SA, CC0, or Public Domain). A term beginning
+// with "File:" pins one specific Commons file instead of searching. The chosen
+// photo is downloaded to assets/images/<id>.jpg and its attribution is written
+// back into that trip's "image" field — so the JSON stays the single source of
+// truth.
 //
 // Usage:
 //   node scripts/fetch-images.mjs           # fetch any missing images
@@ -18,50 +22,11 @@ import { dirname, join } from "node:path";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const IMG_DIR = join(ROOT, "assets", "images");
-const CREDITS_PATH = join(IMG_DIR, "credits.json");
+const DATA_PATH = join(ROOT, "data", "destinations.json");
 
 const UA =
   "late-october-backpacking/1.0 (https://github.com/diosmiodio/late-october-backpacking; diosmiodio@gmail.com)";
 const API = "https://commons.wikimedia.org/w/api.php";
-
-// Primary (and fallback) Commons search queries per destination id.
-const QUERIES = {
-  "grand-canyon": ["Bright Angel Trail Grand Canyon", "Grand Canyon South Kaibab Trail"],
-  "zion-narrows": ["Zion Narrows Virgin River", "The Narrows Zion National Park"],
-  "paria-buckskin": ["Buckskin Gulch slot canyon", "Paria Canyon"],
-  "canyonlands-needles": ["Chesler Park Needles Canyonlands", "Needles District Canyonlands"],
-  "capitol-reef": ["Capitol Reef Waterpocket Fold", "Capitol Reef National Park landscape"],
-  "coyote-gulch": ["Jacob Hamblin Arch Coyote Gulch", "Coyote Gulch Escalante arch", "Coyote Natural Bridge Utah"],
-  "bryce-under-rim": ["Bryce Canyon hoodoos", "Bryce Canyon amphitheater"],
-  "aravaipa": ["Aravaipa Canyon Wilderness", "Aravaipa Creek Arizona"],
-  "superstition": ["Superstition Mountains Arizona", "Weavers Needle Superstition"],
-  "saguaro-rincon": ["Rincon Mountains Saguaro National Park", "Saguaro National Park East"],
-  "chiricahua": ["Chiricahua Mountains Arizona", "Chiricahua rhyolite pinnacles"],
-  "gila": ["Gila Wilderness New Mexico", "Gila River New Mexico canyon"],
-  "big-bend": ["Chisos Mountains Big Bend", "Big Bend South Rim"],
-  "guadalupe-mtns": ["El Capitan Guadalupe Mountains Texas", "Guadalupe Peak Texas", "McKittrick Canyon autumn maples"],
-  "joshua-tree": ["Joshua Tree National Park landscape", "Joshua Tree National Park boulders"],
-  "death-valley": ["Death Valley National Park landscape", "Death Valley canyon"],
-  "mojave-preserve": ["Kelso Dunes Mojave", "Mojave National Preserve"],
-  "anza-borrego": ["Anza-Borrego Desert State Park", "Borrego Palm Canyon"],
-  "trans-catalina": ["Two Harbors Santa Catalina Island", "Catalina Island isthmus", "Avalon Catalina Island harbor"],
-  "channel-islands": ["Santa Cruz Island Channel Islands", "Channel Islands National Park"],
-  "point-reyes": ["Point Reyes National Seashore coast", "Point Reyes cliffs"],
-  "lost-coast": ["Lost Coast King Range California", "Lost Coast Trail California"],
-  "sespe": ["Sespe Wilderness", "Sespe Creek California"],
-  "olympic-coast": ["Rialto Beach sea stacks Olympic", "Olympic National Park coast sea stacks"],
-  "great-smoky": ["Great Smoky Mountains autumn", "Great Smoky Mountains National Park foliage"],
-  "shenandoah": ["Shenandoah National Park autumn", "Old Rag Mountain Shenandoah"],
-  "dolly-sods": ["Dolly Sods Wilderness", "Dolly Sods West Virginia"],
-  "cumberland-island": ["Cumberland Island National Seashore", "Cumberland Island Georgia oaks"],
-  "ozark-highlands": ["Buffalo National River Arkansas", "Hawksbill Crag Arkansas"],
-  "everglades": ["Everglades National Park landscape", "Everglades mangrove"],
-  "havasupai": ["Havasu Falls Arizona", "Havasupai waterfall turquoise", "Mooney Falls Havasupai"],
-};
-
-// Pin a specific Commons file for an id when the auto-pick is poor.
-// e.g. "grand-canyon": "File:Grand Canyon view.jpg"
-const OVERRIDES = {};
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -150,21 +115,24 @@ function evaluate(page) {
   };
 }
 
-async function pickFor(id) {
-  if (OVERRIDES[id]) {
-    const pages = await imageinfo([OVERRIDES[id]]);
-    const cand = evaluate(pages[0]);
-    if (cand) return cand;
-    console.warn(`  override for ${id} did not pass filters, falling back to search`);
-  }
-  for (const q of QUERIES[id]) {
+// Try each query in order. "File:..." pins a specific Commons file; anything
+// else is a search whose results are evaluated in relevance order.
+async function pickFor(queries) {
+  for (const q of queries) {
+    if (/^File:/i.test(q)) {
+      const pages = await imageinfo([q]);
+      const cand = evaluate(pages[0]);
+      if (cand) {
+        cand.query = q;
+        return cand;
+      }
+      continue;
+    }
     const titles = await search(q);
     await sleep(250);
-    // Evaluate in batches preserving relevance order.
     for (let i = 0; i < titles.length; i += 25) {
       const batch = titles.slice(i, i + 25);
       const pages = await imageinfo(batch);
-      // Restore search order (API may reorder).
       const byTitle = new Map(pages.map((p) => [p.title, p]));
       for (const t of batch) {
         const cand = evaluate(byTitle.get(t));
@@ -187,38 +155,44 @@ async function download(url, dest) {
   return buf.length;
 }
 
+const queriesFor = (d) =>
+  !d.image_query ? [] : Array.isArray(d.image_query) ? d.image_query : [d.image_query];
+
 async function main() {
   await mkdir(IMG_DIR, { recursive: true });
   const args = process.argv.slice(2);
   const force = args.includes("--force");
   const only = args.filter((a) => !a.startsWith("--"));
-  const ids = (only.length ? only : Object.keys(QUERIES));
 
-  let credits = {};
-  if (existsSync(CREDITS_PATH)) {
-    credits = JSON.parse(await readFile(CREDITS_PATH, "utf8"));
-  }
+  const doc = JSON.parse(await readFile(DATA_PATH, "utf8"));
+  const all = [...(doc.destinations || []), ...(doc.ruled_out || [])];
+  const wanted = only.length ? all.filter((d) => only.includes(d.id)) : all;
 
   const ok = [];
   const missing = [];
-  for (const id of ids) {
-    const ext = "jpg";
-    const file = `${id}.${ext}`;
+  for (const d of wanted) {
+    const file = `${d.id}.jpg`;
     const dest = join(IMG_DIR, file);
-    if (!force && existsSync(dest) && credits[id]) {
-      ok.push(id + " (cached)");
+    if (!force && existsSync(dest) && d.image) {
+      ok.push(d.id + " (cached)");
       continue;
     }
-    process.stdout.write(`Fetching ${id} ... `);
+    const queries = queriesFor(d);
+    if (!queries.length) {
+      console.log(`Skipping ${d.id} — no image_query in data/destinations.json`);
+      missing.push(d.id);
+      continue;
+    }
+    process.stdout.write(`Fetching ${d.id} ... `);
     try {
-      const cand = await pickFor(id);
+      const cand = await pickFor(queries);
       if (!cand) {
         console.log("NO MATCH");
-        missing.push(id);
+        missing.push(d.id);
         continue;
       }
       const bytes = await download(cand.src_url, dest);
-      credits[id] = {
+      d.image = {
         file,
         title: cand.title,
         artist: cand.artist,
@@ -227,19 +201,23 @@ async function main() {
         source_url: cand.page_url,
         width: cand.width,
         height: cand.height,
-        query: cand.query || "(override)",
+        query: cand.query,
       };
-      console.log(`ok (${cand.width}x${cand.height}, ${(bytes / 1024).toFixed(0)}KB) — ${cand.license} — ${cand.artist.slice(0, 50)}`);
-      ok.push(id);
+      console.log(
+        `ok (${cand.width}x${cand.height}, ${(bytes / 1024).toFixed(0)}KB) — ${cand.license} — ${cand.artist.slice(0, 50)}`,
+      );
+      ok.push(d.id);
       await sleep(300);
     } catch (e) {
       console.log("ERROR " + e.message);
-      missing.push(id);
+      missing.push(d.id);
     }
   }
 
-  await writeFile(CREDITS_PATH, JSON.stringify(credits, null, 2) + "\n");
-  console.log(`\nDone. ${ok.length} ok, ${missing.length} missing.`);
+  await writeFile(DATA_PATH, JSON.stringify(doc, null, 2) + "\n");
+  console.log(
+    `\nDone. ${ok.length} ok, ${missing.length} missing. Credits written to data/destinations.json.`,
+  );
   if (missing.length) console.log("Missing:", missing.join(", "));
 }
 

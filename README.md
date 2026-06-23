@@ -21,17 +21,17 @@ by **bookability** so you can find something you can actually grab on short noti
 
 ## How it's built
 
-A dependency-free static site. A small Node build step turns the dataset into
+A dependency-free static site. A small Node build step turns one JSON file into
 pre-rendered HTML (so content and official links work even without JavaScript);
 vanilla JS adds filtering/search/sort, a deep-linkable detail view, and a Leaflet map.
 
 ```
-data/source.json            Original dataset (unmodified)
-data/destinations.json      Generated, enriched dataset
-assets/images/              Downloaded photos + credits.json (attribution)
+data/destinations.json      The dataset — every trip plus its coordinates,
+                            water/risk notes, and photo credit (one file)
+assets/images/              Downloaded photos (one <id>.jpg per trip)
 scripts/fetch-images.mjs    Sources free-licensed photos from Wikimedia Commons
-scripts/enrich.mjs          Adds coordinates, links, and plan-it summaries
 scripts/build.mjs           Renders dist/
+src/derive.mjs              Computes each trip's links + plan-it summary at build time
 src/template.mjs            HTML generation
 src/styles.css              Styles (mobile-first)
 src/app.js                  Filtering, detail modal, map
@@ -40,15 +40,25 @@ src/app.js                  Filtering, detail modal, map
 ### Develop
 
 ```bash
-npm run build      # enrich + build into dist/
+npm run build      # build dist/ from data/destinations.json
 npm run serve      # serve dist/ locally
 ```
 
-To re-source photos (only needed if changing the image set):
+### Adding or editing a trip
+
+Everything lives in **`data/destinations.json`**. To **edit** a trip (its text,
+coordinates, water/risk notes, bookability…) or **remove** one, change that file and
+rebuild — each trip's `links` and plan-it summary are recomputed automatically.
+
+To **add** a trip, copy an existing entry, edit its fields, and give it a photo —
+either drop `assets/images/<id>.jpg` in place and fill the entry's `image` block, or
+add an `image_query` and run `npm run fetch-images <id>` to source a freely-licensed
+one from Wikimedia Commons (it downloads the photo and writes the attribution back
+into the JSON for you).
 
 ```bash
-npm run fetch-images          # fetch any missing
-npm run fetch-images -- --force   # re-fetch all
+npm run fetch-images              # fetch photos for any trips still missing one
+npm run fetch-images -- --force   # re-fetch every photo
 ```
 
 Deployment is automatic: pushing to `main` runs `.github/workflows/deploy.yml`,
@@ -67,9 +77,9 @@ re-surfaced for scannability, not independently verified trail beta.
 
 Every photo is a freely-licensed image (CC BY / CC BY-SA / CC0 / Public Domain) from
 **Wikimedia Commons**, downloaded locally. Per-photo author, license, and source links
-are recorded in [`assets/images/credits.json`](assets/images/credits.json) and shown in
-the site footer and on each destination's detail view. Map tiles © OpenStreetMap
-contributors, © CARTO.
+are recorded inline in [`data/destinations.json`](data/destinations.json) (each trip's
+`image` field) and shown in the site footer and on each destination's detail view.
+Map tiles © OpenStreetMap contributors, © CARTO.
 
 ## License
 
