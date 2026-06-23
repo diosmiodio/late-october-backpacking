@@ -1139,6 +1139,194 @@
         "height": 1067,
         "query": "Rialto Beach sea stacks Olympic"
       }
+    },
+    {
+      "id": "timberline-trail",
+      "name": "Timberline Trail #600 (Mt. Hood)",
+      "state": "Oregon",
+      "region": "Pacific Northwest",
+      "bookability": "open_access",
+      "bookability_note": "Free, self-issued wilderness permit at the trailhead (required May 15–Oct 15). No quota — but the season, not the permit, is the real gate: by late October the loop is usually snowbound.",
+      "best_route": "Full 41.5-mile loop from Timberline Lodge, circumnavigating Mt. Hood",
+      "suggested_nights": "2-4",
+      "difficulty": "Strenuous",
+      "terrain": "Alpine circuit — glacial valleys, ridges, wildflower meadows, river fords",
+      "late_october_fit": "Out of its element by late October. This is a summer-to-early-fall trail (Labor Day is prime); by late October the high traverses hold snow and ice and the unbridged glacial fords turn dangerous. Here as a spectacular shoulder-season loop to do EARLIER — and only with a hard look at the forecast if you push it late.",
+      "pros": [
+        "A complete 41.5-mile circuit of a glaciated volcano — one of the best loops in the Pacific Northwest",
+        "Wildflower meadows, waterfalls, and constant Mt. Hood views",
+        "Free, self-issue permit and no quota"
+      ],
+      "cons": [
+        "Normally snowbound by late October — really a July–September trail (permit season ends Oct 15)",
+        "Unbridged glacial-melt fords; the Eliot Branch is notorious — steep, loose banks, swift current, ropes to descend",
+        "Big elevation swings and a ~7,300 ft high point; cold, exposed high traverses"
+      ],
+      "tradeoff": "World-class alpine loop, but the calendar is the catch: go late summer/early fall — late October is a snow-and-ford gamble.",
+      "official_site": "https://www.fs.usda.gov/r06/mthood/recreation/trails/timberline-trail-600",
+      "coordinates": {
+        "lat": 45.3311,
+        "lon": -121.711
+      },
+      "water": "Frequent glacial streams — treat everything",
+      "risk": "Late-Oct snow/ice; dangerous unbridged glacial fords",
+      "image_query": [
+        "Timberline Trail Mount Hood",
+        "Mount Hood wildflowers meadow",
+        "Mount Hood Oregon snow peak"
+      ],
+      "image": {
+        "file": "timberline-trail.jpg",
+        "title": "File:Hikers Timberline trail Mt Hood National Forest (37048478301).jpg",
+        "artist": "U.S. Forest Service- Pacific Northwest Region",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hikers_Timberline_trail_Mt_Hood_National_Forest_(37048478301).jpg",
+        "width": 1600,
+        "height": 1077,
+        "query": "Timberline Trail Mount Hood"
+      }
+    },
+    {
+      "id": "rogue-river",
+      "name": "Rogue River Trail (Wild Section)",
+      "state": "Oregon",
+      "region": "Pacific Northwest",
+      "bookability": "open_access",
+      "bookability_note": "No permit needed if you hike self-supported and carry your own gear (a float permit applies only if boaters support you). Self-register; the historic riverside lodges book separately.",
+      "best_route": "Grave Creek to Foster Bar (~40 miles, point-to-point through the Wild & Scenic canyon)",
+      "suggested_nights": "3-4",
+      "difficulty": "Moderate",
+      "terrain": "Low-elevation river canyon — oak woodland, side creeks, whitewater",
+      "late_october_fit": "One of the best October backpacking trips anywhere. Low elevation keeps it snow-free when the mountains close out, and fall brings mild temps, fewer rattlesnakes, salmon runs, and turning bigleaf maples.",
+      "pros": [
+        "Prime in October — mild, colorful, and quiet",
+        "40 miles of Wild & Scenic river canyon with reliable creek water",
+        "No permit for self-supported hikers; historic lodges en route if you want a bed and a meal"
+      ],
+      "cons": [
+        "Abundant poison oak along the trail",
+        "Rattlesnakes (fewer in fall, but present)",
+        "Point-to-point shuttle is long — hired shuttles run roughly $190–300"
+      ],
+      "tradeoff": "A genuinely autumn-perfect, low-stress canyon trip — the main costs are shuttle logistics and watching for poison oak.",
+      "official_site": "https://www.blm.gov/visit/rogue-river-national-recreation-trail",
+      "coordinates": {
+        "lat": 42.6543,
+        "lon": -123.5856
+      },
+      "water": "Plentiful — treat creek water",
+      "risk": "Poison oak; rattlesnakes; long shuttle",
+      "image_query": [
+        "Rogue River Trail Oregon",
+        "Rogue River canyon Oregon",
+        "Rogue Wild and Scenic River Oregon"
+      ],
+      "image": {
+        "file": "rogue-river.jpg",
+        "title": "File:Rogue Wild and Scenic River, Oregon (36656063085).jpg",
+        "artist": "mypubliclands",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rogue_Wild_and_Scenic_River,_Oregon_(36656063085).jpg",
+        "width": 1600,
+        "height": 1145,
+        "query": "Rogue River Trail Oregon"
+      }
+    },
+    {
+      "id": "mount-pinos",
+      "name": "Mt. Pinos / Chumash Wilderness",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "open_access",
+      "bookability_note": "No wilderness permit or pass required for Los Padres wildernesses; dispersed and trail-camp camping. A parking pass may be needed at some trailheads.",
+      "best_route": "Mt. Pinos (Chula Vista) along the ridge over Sawmill Mountain to Sheep Camp",
+      "suggested_nights": "1-2",
+      "difficulty": "Moderate",
+      "terrain": "High pine-forest ridgeline — the roof of Ventura County",
+      "late_october_fit": "The high country closest to home, and early-to-mid October is crisp and clear. At 8,000+ ft it can catch its first hard freeze or snow by late October, so go early in the month and watch the forecast.",
+      "pros": [
+        "Highest terrain in Ventura County, with views from the Sierra to the sea",
+        "Among the best dark-sky stargazing in Southern California",
+        "No permit; quiet pine-forest trail camps (Sheep Camp is the county's highest)"
+      ],
+      "cons": [
+        "Dry ridgeline — carry your water (Sheep Camp's spring is seasonal)",
+        "Cold nights at 8,000+ ft and possible early snow by late October",
+        "Short, exposed high stretches"
+      ],
+      "tradeoff": "A close-to-Ventura high-country escape with unreal night skies — as long as you carry water and catch it before the first snow.",
+      "official_site": "https://www.fs.usda.gov/r05/lospadres",
+      "coordinates": {
+        "lat": 34.8133,
+        "lon": -119.1417
+      },
+      "water": "None on the ridge — carry all water",
+      "risk": "Cold/early snow up high; no reliable water",
+      "image_query": [
+        "Mount Pinos California",
+        "Chumash Wilderness Los Padres",
+        "Mount Pinos summit view California"
+      ],
+      "image": {
+        "file": "mount-pinos.jpg",
+        "title": "File:Mount Pinos.jpg",
+        "artist": "Geographer",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Pinos.jpg",
+        "width": 1600,
+        "height": 1200,
+        "query": "Mount Pinos California"
+      }
+    },
+    {
+      "id": "point-mugu",
+      "name": "Point Mugu State Park (La Jolla Valley)",
+      "state": "California",
+      "region": "California & Pacific coast",
+      "bookability": "open_access",
+      "bookability_note": "Hike-in La Jolla Valley walk-in camp — self-register at the Ray Miller trailhead iron ranger ($10/person/night). No advance reservation; the few sites can fill first-come on weekends.",
+      "best_route": "Ray Miller Trailhead to the La Jolla Valley walk-in camp (~2.5 miles in), with Mugu Peak day loops",
+      "suggested_nights": "1-2",
+      "difficulty": "Easy to moderate",
+      "terrain": "Coastal grassland valley, ocean bluffs, oak-shaded canyons",
+      "late_october_fit": "Easy, close-to-Ventura coastal backpacking that's mild and dry in October — a great low-commitment overnight, just mind fall fire and Santa Ana season.",
+      "pros": [
+        "Just down the coast from Ventura — minimal driving",
+        "Ocean views, native grassland, and quiet weeknight solitude",
+        "Self-register walk-in camp; no reservation needed"
+      ],
+      "cons": [
+        "Dry camp — pack in all water; no campfires",
+        "Fall Santa Ana winds bring heat and fire risk (check closures)",
+        "Only a few sites; weekends fill first-come"
+      ],
+      "tradeoff": "About the easiest 'real' backpacking trip near Ventura, but it's a dry, small, fire-season-sensitive camp.",
+      "official_site": "https://www.parks.ca.gov/PointMugu",
+      "coordinates": {
+        "lat": 34.0822,
+        "lon": -119.043
+      },
+      "water": "None — pack in all water",
+      "risk": "No water; fall fire / Santa Ana season",
+      "image_query": [
+        "La Jolla Valley Point Mugu State Park",
+        "Mugu Peak trail ocean California",
+        "Point Mugu State Park coast"
+      ],
+      "image": {
+        "file": "point-mugu.jpg",
+        "title": "File:La Jolla Valley, Point Mugu State Park (16529814867).jpg",
+        "artist": "Santa Monica Mountains National Recreation Area",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:La_Jolla_Valley,_Point_Mugu_State_Park_(16529814867).jpg",
+        "width": 1600,
+        "height": 1050,
+        "query": "La Jolla Valley Point Mugu State Park"
+      }
     }
   ],
   "ruled_out": [
