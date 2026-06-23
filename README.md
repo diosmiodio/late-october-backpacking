@@ -1,6 +1,6 @@
 # Last-Minute Late-October Backpacking in the US
 
-A mobile-first, filterable guide to **30 late-October backpacking trips** across the US,
+A mobile-first, filterable guide to **28 late-October backpacking trips** across the US,
 sorted by how easily you can book them right now — with real photos, an overview map,
 plan-it summaries, and quick links (Maps, Recreation.gov, AllTrails, weather).
 
@@ -10,9 +10,9 @@ plan-it summaries, and quick links (Maps, Recreation.gov, AllTrails, weather).
 
 ## Why late October
 
-When the high country (Sierra, Rockies, Cascades, northern Appalachians) is already
-getting snow and hard freezes, the sweet spot shifts to the desert Southwest, southern
-California, mild coastlines, and the southern/Appalachian foliage belt. Trips are tagged
+When the Western high country (Sierra, Rockies, high Cascades) is already
+getting snow and hard freezes, the sweet spot shifts to the desert Southwest, West Texas,
+southern California, the milder Pacific coast, and a couple of shoulder-season Oregon trips. Trips are tagged
 by **bookability** so you can find something you can actually grab on short notice:
 
 - 🟢 **Open access** — no reservation; self-register at the trailhead.
