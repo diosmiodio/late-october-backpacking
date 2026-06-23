@@ -48,6 +48,16 @@
       ],
       "tradeoff": "The best scenery-to-effort payoff on the list, but the permit is a gamble you must work for.",
       "official_site": "https://www.nps.gov/grca",
+      "coordinates": {
+        "lat": 36.0527,
+        "lon": -112.0838
+      },
+      "water": "Reliable water + developed campground",
+      "risk": "Competitive permit; brutal climb out",
+      "image_query": [
+        "Bright Angel Trail Grand Canyon",
+        "Grand Canyon South Kaibab Trail"
+      ],
       "image": {
         "file": "grand-canyon.jpg",
         "title": "File:USA 09847 Grand Canyon Luca Galuzzi 2007.jpg",
@@ -58,24 +68,6 @@
         "width": 1600,
         "height": 1066,
         "query": "Bright Angel Trail Grand Canyon"
-      },
-      "coordinates": {
-        "lat": 36.0527,
-        "lon": -112.0838,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/grca",
-        "map": "https://www.google.com/maps/search/?api=1&query=36.0527,-112.0838",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.0527&lon=-112.0838",
-        "alltrails": "https://www.alltrails.com/search?q=Grand%20Canyon%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Contested — apply early and keep backup dates.",
-        "nights": "1-2",
-        "water": "Reliable water + developed campground",
-        "risk": "Competitive permit; brutal climb out",
-        "route": "South Kaibab down / Bright Angel up, overnight at Bright Angel Campground (rim-to-river)"
       }
     },
     {
@@ -102,6 +94,16 @@
       ],
       "tradeoff": "Unforgettable if conditions and permits align, but the most weather-dependent, gear-intensive pick.",
       "official_site": "https://www.nps.gov/zion",
+      "coordinates": {
+        "lat": 37.2853,
+        "lon": -112.948
+      },
+      "water": "In-river hike — cold water all day",
+      "risk": "Flash floods; permit contested",
+      "image_query": [
+        "Zion Narrows Virgin River",
+        "The Narrows Zion National Park"
+      ],
       "image": {
         "file": "zion-narrows.jpg",
         "title": "File:Zion narrows streams virgin rivers.jpg",
@@ -112,24 +114,6 @@
         "width": 1280,
         "height": 960,
         "query": "Zion Narrows Virgin River"
-      },
-      "coordinates": {
-        "lat": 37.2853,
-        "lon": -112.948,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/zion",
-        "map": "https://www.google.com/maps/search/?api=1&query=37.2853,-112.948",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.2853&lon=-112.948",
-        "alltrails": "https://www.alltrails.com/search?q=Zion%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Contested — apply early and keep backup dates.",
-        "nights": "1",
-        "water": "In-river hike — cold water all day",
-        "risk": "Flash floods; permit contested",
-        "route": "Narrows top-down (~16 mi, one overnight) OR the drier West Rim Trail"
       }
     },
     {
@@ -156,6 +140,17 @@
       ],
       "tradeoff": "A bookable, jaw-dropping slot canyon, but demands flash-flood vigilance and slot-canyon competence.",
       "official_site": "https://www.blm.gov/visit/paria-canyon",
+      "coordinates": {
+        "lat": 37.019,
+        "lon": -112.0256
+      },
+      "water": "River/spring water — treat it",
+      "risk": "Flash floods; cold, muddy wades",
+      "recreation_query": "Paria Canyon",
+      "image_query": [
+        "Buckskin Gulch slot canyon",
+        "Paria Canyon"
+      ],
       "image": {
         "file": "paria-buckskin.jpg",
         "title": "File:Wire Pass Canyon meets Buckskin Gulch.jpg",
@@ -166,25 +161,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Buckskin Gulch slot canyon"
-      },
-      "coordinates": {
-        "lat": 37.019,
-        "lon": -112.0256,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.blm.gov/visit/paria-canyon",
-        "map": "https://www.google.com/maps/search/?api=1&query=37.019,-112.0256",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.019&lon=-112.0256",
-        "recreation": "https://www.recreation.gov/search?q=Paria%20Canyon",
-        "alltrails": "https://www.alltrails.com/search?q=Paria%20Canyon%20%2F%20Buckskin%20Gulch"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-4",
-        "water": "River/spring water — treat it",
-        "risk": "Flash floods; cold, muddy wades",
-        "route": "Wire Pass / Buckskin Gulch into Paria Canyon (overnight or thru-hike to Lee's Ferry)"
       }
     },
     {
@@ -211,6 +187,17 @@
       ],
       "tradeoff": "Otherworldly scenery you can reserve now, with water logistics as the main planning cost.",
       "official_site": "https://www.nps.gov/cany",
+      "coordinates": {
+        "lat": 38.1457,
+        "lon": -109.8234
+      },
+      "water": "Scarce — cache or carry",
+      "risk": "Water logistics; slickrock route-finding",
+      "recreation_query": "Canyonlands",
+      "image_query": [
+        "Chesler Park Needles Canyonlands",
+        "Needles District Canyonlands"
+      ],
       "image": {
         "file": "canyonlands-needles.jpg",
         "title": "File:Chesler Park, The Needles, Canyonlands (29046056724).jpg",
@@ -221,25 +208,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Chesler Park Needles Canyonlands"
-      },
-      "coordinates": {
-        "lat": 38.1457,
-        "lon": -109.8234,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/cany",
-        "map": "https://www.google.com/maps/search/?api=1&query=38.1457,-109.8234",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.1457&lon=-109.8234",
-        "recreation": "https://www.recreation.gov/search?q=Canyonlands",
-        "alltrails": "https://www.alltrails.com/search?q=Canyonlands%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-3",
-        "water": "Scarce — cache or carry",
-        "risk": "Water logistics; slickrock route-finding",
-        "route": "Chesler Park / Joint Trail loop (backcountry zones)"
       }
     },
     {
@@ -266,6 +234,16 @@
       ],
       "tradeoff": "Solitude and free permits, but you trade developed infrastructure and easy water.",
       "official_site": "https://www.nps.gov/care",
+      "coordinates": {
+        "lat": 37.9,
+        "lon": -111
+      },
+      "water": "Very limited — carry your own",
+      "risk": "Remote dirt roads; full self-sufficiency",
+      "image_query": [
+        "Capitol Reef Waterpocket Fold",
+        "Capitol Reef National Park landscape"
+      ],
       "image": {
         "file": "capitol-reef.jpg",
         "title": "File:Waterpocket Fold from above Capitol Reef Scenic Drive.jpeg",
@@ -276,24 +254,6 @@
         "width": 1600,
         "height": 672,
         "query": "Capitol Reef Waterpocket Fold"
-      },
-      "coordinates": {
-        "lat": 37.9,
-        "lon": -111,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/care",
-        "map": "https://www.google.com/maps/search/?api=1&query=37.9,-111",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.9&lon=-111",
-        "alltrails": "https://www.alltrails.com/search?q=Capitol%20Reef%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "Very limited — carry your own",
-        "risk": "Remote dirt roads; full self-sufficiency",
-        "route": "Upper Muley Twist Canyon or Halls Creek Narrows"
       }
     },
     {
@@ -320,6 +280,17 @@
       ],
       "tradeoff": "One of the easiest world-class canyon trips to just show up and do, but expect company.",
       "official_site": "https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante",
+      "coordinates": {
+        "lat": 37.4127,
+        "lon": -111.149
+      },
+      "water": "Reliable canyon water",
+      "risk": "Flash floods; long sandy approach",
+      "image_query": [
+        "Jacob Hamblin Arch Coyote Gulch",
+        "Coyote Gulch Escalante arch",
+        "Coyote Natural Bridge Utah"
+      ],
       "image": {
         "file": "coyote-gulch.jpg",
         "title": "File:From the Top - Coyote Gulch.jpg",
@@ -330,24 +301,6 @@
         "width": 1600,
         "height": 641,
         "query": "Jacob Hamblin Arch Coyote Gulch"
-      },
-      "coordinates": {
-        "lat": 37.4127,
-        "lon": -111.149,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante",
-        "map": "https://www.google.com/maps/search/?api=1&query=37.4127,-111.149",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.4127&lon=-111.149",
-        "alltrails": "https://www.alltrails.com/search?q=Coyote%20Gulch%20%2F%20Grand%20Staircase-Escalante"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "2-3",
-        "water": "Reliable canyon water",
-        "risk": "Flash floods; long sandy approach",
-        "route": "Hurricane Wash to Coyote Gulch (arches, natural bridge, Escalante River)"
       }
     },
     {
@@ -374,6 +327,16 @@
       ],
       "tradeoff": "Singular scenery and easy permits, but the highest weather risk on this list — watch the forecast hard.",
       "official_site": "https://www.nps.gov/brca",
+      "coordinates": {
+        "lat": 37.6045,
+        "lon": -112.1571
+      },
+      "water": "Unreliable / can be dry",
+      "risk": "Early snow & hard freezes (~8–9k ft)",
+      "image_query": [
+        "Bryce Canyon hoodoos",
+        "Bryce Canyon amphitheater"
+      ],
       "image": {
         "file": "bryce-under-rim.jpg",
         "title": "File:Hoodoos in the Bryce Canyon National Park.jpg",
@@ -384,24 +347,6 @@
         "width": 1600,
         "height": 1049,
         "query": "Bryce Canyon hoodoos"
-      },
-      "coordinates": {
-        "lat": 37.6045,
-        "lon": -112.1571,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/brca",
-        "map": "https://www.google.com/maps/search/?api=1&query=37.6045,-112.1571",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=37.6045&lon=-112.1571",
-        "alltrails": "https://www.alltrails.com/search?q=Bryce%20Canyon%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Unreliable / can be dry",
-        "risk": "Early snow & hard freezes (~8–9k ft)",
-        "route": "Under-the-Rim Trail (sections or full ~23 mi)"
       }
     },
     {
@@ -428,6 +373,17 @@
       ],
       "tradeoff": "A lush desert oasis if you snag a permit, but the quota is the catch.",
       "official_site": "https://www.blm.gov/visit/aravaipa-canyon-wilderness",
+      "coordinates": {
+        "lat": 32.893,
+        "lon": -110.516
+      },
+      "water": "Perennial creek — constant water",
+      "risk": "Tight permit quota; wet feet all day",
+      "recreation_query": "Aravaipa Canyon",
+      "image_query": [
+        "Aravaipa Canyon Wilderness",
+        "Aravaipa Creek Arizona"
+      ],
       "image": {
         "file": "aravaipa.jpg",
         "title": "File:Aravaipa Canyon Wilderness Area (26697285775).jpg",
@@ -438,25 +394,6 @@
         "width": 1600,
         "height": 1066,
         "query": "Aravaipa Canyon Wilderness"
-      },
-      "coordinates": {
-        "lat": 32.893,
-        "lon": -110.516,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.blm.gov/visit/aravaipa-canyon-wilderness",
-        "map": "https://www.google.com/maps/search/?api=1&query=32.893,-110.516",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=32.893&lon=-110.516",
-        "recreation": "https://www.recreation.gov/search?q=Aravaipa%20Canyon",
-        "alltrails": "https://www.alltrails.com/search?q=Aravaipa%20Canyon%20Wilderness"
-      },
-      "plan_it": {
-        "action": "Contested — apply early and keep backup dates.",
-        "nights": "1-2",
-        "water": "Perennial creek — constant water",
-        "risk": "Tight permit quota; wet feet all day",
-        "route": "Aravaipa Canyon (perennial creek walk, east or west entrance)"
       }
     },
     {
@@ -483,6 +420,16 @@
       ],
       "tradeoff": "Permit-free classic desert backpacking, but water scarcity is the constant constraint.",
       "official_site": "https://www.fs.usda.gov/tonto",
+      "coordinates": {
+        "lat": 33.397,
+        "lon": -111.348
+      },
+      "water": "Unreliable — carry heavy",
+      "risk": "Water scarcity; warm afternoons",
+      "image_query": [
+        "Superstition Mountains Arizona",
+        "Weavers Needle Superstition"
+      ],
       "image": {
         "file": "superstition.jpg",
         "title": "File:Superstition Mountains.jpg",
@@ -493,24 +440,6 @@
         "width": 1600,
         "height": 1060,
         "query": "Superstition Mountains Arizona"
-      },
-      "coordinates": {
-        "lat": 33.397,
-        "lon": -111.348,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.fs.usda.gov/tonto",
-        "map": "https://www.google.com/maps/search/?api=1&query=33.397,-111.348",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.397&lon=-111.348",
-        "alltrails": "https://www.alltrails.com/search?q=Superstition%20Wilderness"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "Unreliable — carry heavy",
-        "risk": "Water scarcity; warm afternoons",
-        "route": "Peralta to Fremont Saddle / Dutchman's Trail loop"
       }
     },
     {
@@ -537,6 +466,17 @@
       ],
       "tradeoff": "A full ecological gradient in one hike, at the cost of a steep climb.",
       "official_site": "https://www.nps.gov/sagu",
+      "coordinates": {
+        "lat": 32.223,
+        "lon": -110.705
+      },
+      "water": "Some at high camps; plan lower legs",
+      "risk": "Big climb; cold nights up high",
+      "recreation_query": "Saguaro National Park",
+      "image_query": [
+        "Rincon Mountains Saguaro National Park",
+        "Saguaro National Park East"
+      ],
       "image": {
         "file": "saguaro-rincon.jpg",
         "title": "File:Saguaro cactus, Saguaro National Park (Rincon Mountain District), Arizona (6715f5bb-4bb8-49bd-a9e1-b59d8baf5318).jpg",
@@ -547,25 +487,6 @@
         "width": 1200,
         "height": 900,
         "query": "Rincon Mountains Saguaro National Park"
-      },
-      "coordinates": {
-        "lat": 32.223,
-        "lon": -110.705,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/sagu",
-        "map": "https://www.google.com/maps/search/?api=1&query=32.223,-110.705",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=32.223&lon=-110.705",
-        "recreation": "https://www.recreation.gov/search?q=Saguaro%20National%20Park",
-        "alltrails": "https://www.alltrails.com/search?q=Saguaro%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-3",
-        "water": "Some at high camps; plan lower legs",
-        "risk": "Big climb; cold nights up high",
-        "route": "Douglas Spring / Manning Camp loop into the Rincon Mountains"
       }
     },
     {
@@ -592,6 +513,16 @@
       ],
       "tradeoff": "True solitude and unique terrain, but far from anything and fire-scarred in places.",
       "official_site": "https://www.fs.usda.gov/coronado",
+      "coordinates": {
+        "lat": 31.912,
+        "lon": -109.279
+      },
+      "water": "Seasonal / unreliable",
+      "risk": "Very remote; fire-scarred in places",
+      "image_query": [
+        "Chiricahua Mountains Arizona",
+        "Chiricahua rhyolite pinnacles"
+      ],
       "image": {
         "file": "chiricahua.jpg",
         "title": "File:Chiricahua mtns-kmf.JPG",
@@ -602,24 +533,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Chiricahua Mountains Arizona"
-      },
-      "coordinates": {
-        "lat": 31.912,
-        "lon": -109.279,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.fs.usda.gov/coronado",
-        "map": "https://www.google.com/maps/search/?api=1&query=31.912,-109.279",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=31.912&lon=-109.279",
-        "alltrails": "https://www.alltrails.com/search?q=Chiricahua%20Mountains"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-3",
-        "water": "Seasonal / unreliable",
-        "risk": "Very remote; fire-scarred in places",
-        "route": "Chiricahua Wilderness loops from Rustler Park / Snowshed"
       }
     },
     {
@@ -646,6 +559,16 @@
       ],
       "tradeoff": "Big, free, lonely wilderness, but river crossings and remoteness raise the commitment.",
       "official_site": "https://www.fs.usda.gov/gila",
+      "coordinates": {
+        "lat": 33.227,
+        "lon": -108.262
+      },
+      "water": "Reliable on river routes + hot springs",
+      "risk": "Many river crossings; remote",
+      "image_query": [
+        "Gila Wilderness New Mexico",
+        "Gila River New Mexico canyon"
+      ],
       "image": {
         "file": "gila.jpg",
         "title": "File:A beaver dam spans a section of the Middle Fork of the Gila River.jpg",
@@ -656,24 +579,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Gila Wilderness New Mexico"
-      },
-      "coordinates": {
-        "lat": 33.227,
-        "lon": -108.262,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.fs.usda.gov/gila",
-        "map": "https://www.google.com/maps/search/?api=1&query=33.227,-108.262",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.227&lon=-108.262",
-        "alltrails": "https://www.alltrails.com/search?q=Gila%20Wilderness"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "2-4",
-        "water": "Reliable on river routes + hot springs",
-        "risk": "Many river crossings; remote",
-        "route": "Gila River canyon from the Gila Cliff Dwellings area"
       }
     },
     {
@@ -700,6 +605,17 @@
       ],
       "tradeoff": "Easiest marquee permit to grab, but the remoteness is a real commitment.",
       "official_site": "https://www.nps.gov/bibe",
+      "coordinates": {
+        "lat": 29.27,
+        "lon": -103.3
+      },
+      "water": "Cache/plan on some routes",
+      "risk": "Extreme remoteness; long drives",
+      "recreation_query": "Big Bend",
+      "image_query": [
+        "Chisos Mountains Big Bend",
+        "Big Bend South Rim"
+      ],
       "image": {
         "file": "big-bend.jpg",
         "title": "File:Big Bend Chihuahuan Desert.jpg",
@@ -710,25 +626,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Chisos Mountains Big Bend"
-      },
-      "coordinates": {
-        "lat": 29.27,
-        "lon": -103.3,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/bibe",
-        "map": "https://www.google.com/maps/search/?api=1&query=29.27,-103.3",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=29.27&lon=-103.3",
-        "recreation": "https://www.recreation.gov/search?q=Big%20Bend",
-        "alltrails": "https://www.alltrails.com/search?q=Big%20Bend%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Cache/plan on some routes",
-        "risk": "Extreme remoteness; long drives",
-        "route": "South Rim loop in the Chisos Mountains (~12-14 miles)"
       }
     },
     {
@@ -755,6 +652,17 @@
       ],
       "tradeoff": "Desert foliage and big views, but wind and waterless camps test you.",
       "official_site": "https://www.nps.gov/gumo",
+      "coordinates": {
+        "lat": 31.8975,
+        "lon": -104.8276
+      },
+      "water": "Dry camps — carry all water",
+      "risk": "Fierce sustained winds; steep climbs",
+      "image_query": [
+        "El Capitan Guadalupe Mountains Texas",
+        "Guadalupe Peak Texas",
+        "McKittrick Canyon autumn maples"
+      ],
       "image": {
         "file": "guadalupe-mtns.jpg",
         "title": "File:El Capitan base 2005-03-12.jpg",
@@ -765,24 +673,6 @@
         "width": 1600,
         "height": 1067,
         "query": "El Capitan Guadalupe Mountains Texas"
-      },
-      "coordinates": {
-        "lat": 31.8975,
-        "lon": -104.8276,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/gumo",
-        "map": "https://www.google.com/maps/search/?api=1&query=31.8975,-104.8276",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=31.8975&lon=-104.8276",
-        "alltrails": "https://www.alltrails.com/search?q=Guadalupe%20Mountains%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Dry camps — carry all water",
-        "risk": "Fierce sustained winds; steep climbs",
-        "route": "Tejas / Bowl loop through the high country; McKittrick Canyon for fall color"
       }
     },
     {
@@ -809,6 +699,16 @@
       ],
       "tradeoff": "Maximum flexibility and ease, but you carry every drop of water.",
       "official_site": "https://www.nps.gov/jotr",
+      "coordinates": {
+        "lat": 34.02,
+        "lon": -116.162
+      },
+      "water": "None — pack in all water",
+      "risk": "No water; nights below freezing",
+      "image_query": [
+        "Joshua Tree National Park landscape",
+        "Joshua Tree National Park boulders"
+      ],
       "image": {
         "file": "joshua-tree.jpg",
         "title": "File:Joshua Tree National Park 2013.jpg",
@@ -819,24 +719,6 @@
         "width": 1600,
         "height": 982,
         "query": "Joshua Tree National Park landscape"
-      },
-      "coordinates": {
-        "lat": 34.02,
-        "lon": -116.162,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/jotr",
-        "map": "https://www.google.com/maps/search/?api=1&query=34.02,-116.162",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.02&lon=-116.162",
-        "alltrails": "https://www.alltrails.com/search?q=Joshua%20Tree%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "None — pack in all water",
-        "risk": "No water; nights below freezing",
-        "route": "Boy Scout Trail / Willow Hole or a California Riding & Hiking Trail section"
       }
     },
     {
@@ -863,6 +745,16 @@
       ],
       "tradeoff": "Epic emptiness for free, but the most logistically demanding desert option on water and access.",
       "official_site": "https://www.nps.gov/deva",
+      "coordinates": {
+        "lat": 36.605,
+        "lon": -117.145
+      },
+      "water": "Extremely scarce — heavy carry",
+      "risk": "Water + navigation; rough-road access",
+      "image_query": [
+        "Death Valley National Park landscape",
+        "Death Valley canyon"
+      ],
       "image": {
         "file": "death-valley.jpg",
         "title": "File:SR 190 Panamint Springs Resort End Death Valley 2013.jpg",
@@ -873,24 +765,6 @@
         "width": 1600,
         "height": 992,
         "query": "Death Valley National Park landscape"
-      },
-      "coordinates": {
-        "lat": 36.605,
-        "lon": -117.145,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/deva",
-        "map": "https://www.google.com/maps/search/?api=1&query=36.605,-117.145",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.605&lon=-117.145",
-        "alltrails": "https://www.alltrails.com/search?q=Death%20Valley%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "2-3",
-        "water": "Extremely scarce — heavy carry",
-        "risk": "Water + navigation; rough-road access",
-        "route": "Cottonwood–Marble Canyons loop"
       }
     },
     {
@@ -917,6 +791,16 @@
       ],
       "tradeoff": "Vast free desert solitude, but you supply all water and routefinding.",
       "official_site": "https://www.nps.gov/moja",
+      "coordinates": {
+        "lat": 34.897,
+        "lon": -115.71
+      },
+      "water": "None — carry everything",
+      "risk": "No water; faint routes, navigation",
+      "image_query": [
+        "Kelso Dunes Mojave",
+        "Mojave National Preserve"
+      ],
       "image": {
         "file": "mojave-preserve.jpg",
         "title": "File:Mojave National Preserve Kelso Dunes (49461666752).jpg",
@@ -927,24 +811,6 @@
         "width": 1600,
         "height": 1068,
         "query": "Kelso Dunes Mojave"
-      },
-      "coordinates": {
-        "lat": 34.897,
-        "lon": -115.71,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/moja",
-        "map": "https://www.google.com/maps/search/?api=1&query=34.897,-115.71",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.897&lon=-115.71",
-        "alltrails": "https://www.alltrails.com/search?q=Mojave%20National%20Preserve"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "None — carry everything",
-        "risk": "No water; faint routes, navigation",
-        "route": "Kelso Dunes area or the Mid Hills / Table Mountain backcountry"
       }
     },
     {
@@ -971,6 +837,16 @@
       ],
       "tradeoff": "Easy-access desert freedom, but it's hit-or-miss on early-season heat and water.",
       "official_site": "https://www.parks.ca.gov/?page_id=638",
+      "coordinates": {
+        "lat": 33.27,
+        "lon": -116.415
+      },
+      "water": "Carry water (a few palm oases)",
+      "risk": "Early-season heat; sandy/4WD access",
+      "image_query": [
+        "Anza-Borrego Desert State Park",
+        "Borrego Palm Canyon"
+      ],
       "image": {
         "file": "anza-borrego.jpg",
         "title": "File:2017-03-11 USA, CA, Anza-Borrego DSC 1358 DxO.jpg",
@@ -981,24 +857,6 @@
         "width": 1600,
         "height": 1063,
         "query": "Anza-Borrego Desert State Park"
-      },
-      "coordinates": {
-        "lat": 33.27,
-        "lon": -116.415,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.parks.ca.gov/?page_id=638",
-        "map": "https://www.google.com/maps/search/?api=1&query=33.27,-116.415",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.27&lon=-116.415",
-        "alltrails": "https://www.alltrails.com/search?q=Anza-Borrego%20Desert%20State%20Park"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "Carry water (a few palm oases)",
-        "risk": "Early-season heat; sandy/4WD access",
-        "route": "Coyote Canyon or the slot canyons / Borrego Palm Canyon area"
       }
     },
     {
@@ -1025,6 +883,17 @@
       ],
       "tradeoff": "Easy to book and mild, but you trade true wilderness and pay for ferries.",
       "official_site": "https://www.catalinaconservancy.org",
+      "coordinates": {
+        "lat": 33.39,
+        "lon": -118.417
+      },
+      "water": "Water at designated campsites",
+      "risk": "Ferry logistics; lots of climbing",
+      "image_query": [
+        "Two Harbors Santa Catalina Island",
+        "Catalina Island isthmus",
+        "Avalon Catalina Island harbor"
+      ],
       "image": {
         "file": "trans-catalina.jpg",
         "title": "File:Two Harbors Catalina Island CA south side aerial by Don Ramey Logan.jpg",
@@ -1035,24 +904,6 @@
         "width": 1600,
         "height": 1068,
         "query": "Two Harbors Santa Catalina Island"
-      },
-      "coordinates": {
-        "lat": 33.39,
-        "lon": -118.417,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.catalinaconservancy.org",
-        "map": "https://www.google.com/maps/search/?api=1&query=33.39,-118.417",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=33.39&lon=-118.417",
-        "alltrails": "https://www.alltrails.com/search?q=Trans-Catalina%20Trail"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "2-4",
-        "water": "Water at designated campsites",
-        "risk": "Ferry logistics; lots of climbing",
-        "route": "Trans-Catalina Trail (Avalon to Two Harbors), ~38.5 miles or shorter sections"
       }
     },
     {
@@ -1079,6 +930,17 @@
       ],
       "tradeoff": "A true island adventure that's easy to reserve, but small trail system and ferry weather risk.",
       "official_site": "https://www.nps.gov/chis",
+      "coordinates": {
+        "lat": 34.049,
+        "lon": -119.557
+      },
+      "water": "Limited — depends on the site",
+      "risk": "Ferry weather; exposed, windy camps",
+      "recreation_query": "Channel Islands",
+      "image_query": [
+        "Santa Cruz Island Channel Islands",
+        "Channel Islands National Park"
+      ],
       "image": {
         "file": "channel-islands.jpg",
         "title": "File:Channel Islands National Park - Santa Cruz Island - beach area with kayakers.jpg",
@@ -1089,25 +951,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Santa Cruz Island Channel Islands"
-      },
-      "coordinates": {
-        "lat": 34.049,
-        "lon": -119.557,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/chis",
-        "map": "https://www.google.com/maps/search/?api=1&query=34.049,-119.557",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.049&lon=-119.557",
-        "recreation": "https://www.recreation.gov/search?q=Channel%20Islands",
-        "alltrails": "https://www.alltrails.com/search?q=Channel%20Islands%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Limited — depends on the site",
-        "risk": "Ferry weather; exposed, windy camps",
-        "route": "Santa Cruz Island (Scorpion to Smugglers / Potato Harbor) or backcountry Santa Rosa"
       }
     },
     {
@@ -1134,6 +977,17 @@
       ],
       "tradeoff": "Easy, scenic, low-commitment coastal backpacking, but not a big-wilderness experience.",
       "official_site": "https://www.nps.gov/pore",
+      "coordinates": {
+        "lat": 38.04,
+        "lon": -122.8
+      },
+      "water": "Water at the camps",
+      "risk": "Coastal fog; popular weekends book up",
+      "recreation_query": "Point Reyes",
+      "image_query": [
+        "Point Reyes National Seashore coast",
+        "Point Reyes cliffs"
+      ],
       "image": {
         "file": "point-reyes.jpg",
         "title": "File:Point Reyes Lighthouse in December 2019.jpg",
@@ -1144,25 +998,6 @@
         "width": 1600,
         "height": 1280,
         "query": "Point Reyes National Seashore coast"
-      },
-      "coordinates": {
-        "lat": 38.04,
-        "lon": -122.8,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/pore",
-        "map": "https://www.google.com/maps/search/?api=1&query=38.04,-122.8",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.04&lon=-122.8",
-        "recreation": "https://www.recreation.gov/search?q=Point%20Reyes",
-        "alltrails": "https://www.alltrails.com/search?q=Point%20Reyes%20National%20Seashore"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Water at the camps",
-        "risk": "Coastal fog; popular weekends book up",
-        "route": "Coast Camp / Wildcat Camp via the Coast Trail"
       }
     },
     {
@@ -1189,6 +1024,17 @@
       ],
       "tradeoff": "A world-class trip you can still book, but tide-dependent and weather-exposed.",
       "official_site": "https://www.blm.gov/visit/kingrange",
+      "coordinates": {
+        "lat": 40.249,
+        "lon": -124.353
+      },
+      "water": "Reliable creek water",
+      "risk": "Tide tables mandatory; soft sand miles",
+      "recreation_query": "Lost Coast",
+      "image_query": [
+        "Lost Coast King Range California",
+        "Lost Coast Trail California"
+      ],
       "image": {
         "file": "lost-coast.jpg",
         "title": "File:Lost Coast Trail, The King Range National Conservation Area (50211682538).jpg",
@@ -1199,25 +1045,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Lost Coast King Range California"
-      },
-      "coordinates": {
-        "lat": 40.249,
-        "lon": -124.353,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.blm.gov/visit/kingrange",
-        "map": "https://www.google.com/maps/search/?api=1&query=40.249,-124.353",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=40.249&lon=-124.353",
-        "recreation": "https://www.recreation.gov/search?q=Lost%20Coast",
-        "alltrails": "https://www.alltrails.com/search?q=Lost%20Coast%20Trail"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "2-3",
-        "water": "Reliable creek water",
-        "risk": "Tide tables mandatory; soft sand miles",
-        "route": "Mattole to Black Sands Beach (~25 miles, northbound)"
       }
     },
     {
@@ -1244,6 +1071,16 @@
       ],
       "tradeoff": "Permit-free trip to wild hot springs, but the most closure-prone and least certain to be open.",
       "official_site": "https://www.fs.usda.gov/lpnf",
+      "coordinates": {
+        "lat": 34.547,
+        "lon": -119.149
+      },
+      "water": "Limited / seasonal",
+      "risk": "Fire closures common; faint trails",
+      "image_query": [
+        "Sespe Wilderness",
+        "Sespe Creek California"
+      ],
       "image": {
         "file": "sespe.jpg",
         "title": "File:Sespe Wilderness.JPG",
@@ -1254,24 +1091,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Sespe Wilderness"
-      },
-      "coordinates": {
-        "lat": 34.547,
-        "lon": -119.149,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.fs.usda.gov/lpnf",
-        "map": "https://www.google.com/maps/search/?api=1&query=34.547,-119.149",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=34.547&lon=-119.149",
-        "alltrails": "https://www.alltrails.com/search?q=Sespe%20Wilderness%20%2F%20Los%20Padres%20National%20Forest"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-3",
-        "water": "Limited / seasonal",
-        "risk": "Fire closures common; faint trails",
-        "route": "Piedra Blanca / Sespe River Trail toward Sespe Hot Springs"
       }
     },
     {
@@ -1298,6 +1117,17 @@
       ],
       "tradeoff": "Spectacular and bookable, but you're betting against Pacific Northwest rain.",
       "official_site": "https://www.nps.gov/olym",
+      "coordinates": {
+        "lat": 47.919,
+        "lon": -124.64
+      },
+      "water": "Abundant — treat it",
+      "risk": "Heavy rain; tide timing; bear canister",
+      "recreation_query": "Olympic",
+      "image_query": [
+        "Rialto Beach sea stacks Olympic",
+        "Olympic National Park coast sea stacks"
+      ],
       "image": {
         "file": "olympic-coast.jpg",
         "title": "File:Sea stacks off Rialto Beach Olympic National Park.jpg",
@@ -1308,25 +1138,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Rialto Beach sea stacks Olympic"
-      },
-      "coordinates": {
-        "lat": 47.919,
-        "lon": -124.64,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/olym",
-        "map": "https://www.google.com/maps/search/?api=1&query=47.919,-124.64",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=47.919&lon=-124.64",
-        "recreation": "https://www.recreation.gov/search?q=Olympic",
-        "alltrails": "https://www.alltrails.com/search?q=Olympic%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-2",
-        "water": "Abundant — treat it",
-        "risk": "Heavy rain; tide timing; bear canister",
-        "route": "Ozette Triangle or the South Coast (Third Beach to Oil City)"
       }
     },
     {
@@ -1353,6 +1164,16 @@
       ],
       "tradeoff": "Premier foliage backpacking, but variable mountain weather and bear protocols.",
       "official_site": "https://www.nps.gov/grsm",
+      "coordinates": {
+        "lat": 35.6118,
+        "lon": -83.4249
+      },
+      "water": "Abundant streams",
+      "risk": "Cold/wet; bears; shelters can fill",
+      "image_query": [
+        "Great Smoky Mountains autumn",
+        "Great Smoky Mountains National Park foliage"
+      ],
       "image": {
         "file": "great-smoky.jpg",
         "title": "File:Meadow in the Smoky Mountains (41665h).jpg",
@@ -1363,24 +1184,6 @@
         "width": 1600,
         "height": 1096,
         "query": "Great Smoky Mountains autumn"
-      },
-      "coordinates": {
-        "lat": 35.6118,
-        "lon": -83.4249,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/grsm",
-        "map": "https://www.google.com/maps/search/?api=1&query=35.6118,-83.4249",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=35.6118&lon=-83.4249",
-        "alltrails": "https://www.alltrails.com/search?q=Great%20Smoky%20Mountains%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "2-3",
-        "water": "Abundant streams",
-        "risk": "Cold/wet; bears; shelters can fill",
-        "route": "Appalachian Trail section or a Deep Creek / Hazel Creek loop"
       }
     },
     {
@@ -1407,6 +1210,16 @@
       ],
       "tradeoff": "Among the easiest foliage backpacking to just go do, but the corridor draws leaf-peeper crowds.",
       "official_site": "https://www.nps.gov/shen",
+      "coordinates": {
+        "lat": 38.5708,
+        "lon": -78.2869
+      },
+      "water": "Plentiful water",
+      "risk": "Leaf-peeper crowds; possible early frost",
+      "image_query": [
+        "Shenandoah National Park autumn",
+        "Old Rag Mountain Shenandoah"
+      ],
       "image": {
         "file": "shenandoah.jpg",
         "title": "File:Shenandoah national park autumn.jpg",
@@ -1417,24 +1230,6 @@
         "width": 1600,
         "height": 833,
         "query": "Shenandoah National Park autumn"
-      },
-      "coordinates": {
-        "lat": 38.5708,
-        "lon": -78.2869,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/shen",
-        "map": "https://www.google.com/maps/search/?api=1&query=38.5708,-78.2869",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=38.5708&lon=-78.2869",
-        "alltrails": "https://www.alltrails.com/search?q=Shenandoah%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-3",
-        "water": "Plentiful water",
-        "risk": "Leaf-peeper crowds; possible early frost",
-        "route": "Appalachian Trail / Old Rag and Whiteoak Canyon loops off Skyline Drive"
       }
     },
     {
@@ -1461,6 +1256,16 @@
       ],
       "tradeoff": "A one-of-a-kind landscape for free, but the weather exposure is the price.",
       "official_site": "https://www.fs.usda.gov/mnf",
+      "coordinates": {
+        "lat": 39.048,
+        "lon": -79.31
+      },
+      "water": "Frequent crossings — treat",
+      "risk": "Cold, wind, snow; boggy; foggy navigation",
+      "image_query": [
+        "Dolly Sods Wilderness",
+        "Dolly Sods West Virginia"
+      ],
       "image": {
         "file": "dolly-sods.jpg",
         "title": "File:Dolly Sods - July 2019 - 26.jpg",
@@ -1471,24 +1276,6 @@
         "width": 1600,
         "height": 1200,
         "query": "Dolly Sods Wilderness"
-      },
-      "coordinates": {
-        "lat": 39.048,
-        "lon": -79.31,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.fs.usda.gov/mnf",
-        "map": "https://www.google.com/maps/search/?api=1&query=39.048,-79.31",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=39.048&lon=-79.31",
-        "alltrails": "https://www.alltrails.com/search?q=Dolly%20Sods%20Wilderness"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-2",
-        "water": "Frequent crossings — treat",
-        "risk": "Cold, wind, snow; boggy; foggy navigation",
-        "route": "Dolly Sods loop (Rohrbaugh / Red Creek trails)"
       }
     },
     {
@@ -1515,6 +1302,17 @@
       ],
       "tradeoff": "Uniquely atmospheric coastal trip that's easy to book, but ferry logistics gate access.",
       "official_site": "https://www.nps.gov/cuis",
+      "coordinates": {
+        "lat": 30.763,
+        "lon": -81.458
+      },
+      "water": "Treat/carry water",
+      "risk": "Ferry capacity; early-season bugs",
+      "recreation_query": "Cumberland Island",
+      "image_query": [
+        "Cumberland Island National Seashore",
+        "Cumberland Island Georgia oaks"
+      ],
       "image": {
         "file": "cumberland-island.jpg",
         "title": "File:DSC0224a.jpg",
@@ -1525,25 +1323,6 @@
         "width": 1600,
         "height": 1063,
         "query": "Cumberland Island National Seashore"
-      },
-      "coordinates": {
-        "lat": 30.763,
-        "lon": -81.458,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/cuis",
-        "map": "https://www.google.com/maps/search/?api=1&query=30.763,-81.458",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=30.763&lon=-81.458",
-        "recreation": "https://www.recreation.gov/search?q=Cumberland%20Island",
-        "alltrails": "https://www.alltrails.com/search?q=Cumberland%20Island%20National%20Seashore"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-3",
-        "water": "Treat/carry water",
-        "risk": "Ferry capacity; early-season bugs",
-        "route": "Sea Camp to Hickory Hill / Stafford backcountry sites"
       }
     },
     {
@@ -1570,6 +1349,16 @@
       ],
       "tradeoff": "Quiet, beautiful foliage backpacking for free, but trail conditions are rougher than marquee parks.",
       "official_site": "https://www.nps.gov/buff",
+      "coordinates": {
+        "lat": 36.022,
+        "lon": -93.37
+      },
+      "water": "Abundant water",
+      "risk": "Faint trail; creek crossings; ticks",
+      "image_query": [
+        "Buffalo National River Arkansas",
+        "Hawksbill Crag Arkansas"
+      ],
       "image": {
         "file": "ozark-highlands.jpg",
         "title": "File:Buffalo National River at Carver Landing 002.jpg",
@@ -1580,24 +1369,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Buffalo National River Arkansas"
-      },
-      "coordinates": {
-        "lat": 36.022,
-        "lon": -93.37,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/buff",
-        "map": "https://www.google.com/maps/search/?api=1&query=36.022,-93.37",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=36.022&lon=-93.37",
-        "alltrails": "https://www.alltrails.com/search?q=Ozark%20Highlands%20Trail%20%2F%20Buffalo%20River%20Area"
-      },
-      "plan_it": {
-        "action": "Go on a whim — self-register at the trailhead.",
-        "nights": "1-3",
-        "water": "Abundant water",
-        "risk": "Faint trail; creek crossings; ticks",
-        "route": "Ozark Highlands Trail sections or the Buffalo River Trail"
       }
     },
     {
@@ -1624,6 +1395,17 @@
       ],
       "tradeoff": "The warmest, most exotic pick, but late October is too early for its prime — expect bugs and heat.",
       "official_site": "https://www.nps.gov/ever",
+      "coordinates": {
+        "lat": 25.141,
+        "lon": -80.924
+      },
+      "water": "Carry/treat — brackish coast",
+      "risk": "Mosquitoes & heat; many paddle-access sites",
+      "recreation_query": "Everglades",
+      "image_query": [
+        "Everglades National Park landscape",
+        "Everglades mangrove"
+      ],
       "image": {
         "file": "everglades.jpg",
         "title": "File:Gfp-florida-everglades-national-park-landscape-with-alligators-and-heron.jpg",
@@ -1634,25 +1416,6 @@
         "width": 1600,
         "height": 1067,
         "query": "Everglades National Park landscape"
-      },
-      "coordinates": {
-        "lat": 25.141,
-        "lon": -80.924,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.nps.gov/ever",
-        "map": "https://www.google.com/maps/search/?api=1&query=25.141,-80.924",
-        "weather": "https://forecast.weather.gov/MapClick.php?lat=25.141&lon=-80.924",
-        "recreation": "https://www.recreation.gov/search?q=Everglades",
-        "alltrails": "https://www.alltrails.com/search?q=Everglades%20National%20Park"
-      },
-      "plan_it": {
-        "action": "Reservable now — book soon to lock it in.",
-        "nights": "1-3",
-        "water": "Carry/treat — brackish coast",
-        "risk": "Mosquitoes & heat; many paddle-access sites",
-        "route": "Coastal chickee/ground sites along the Wilderness Waterway or Cape Sable (often paddle-access)"
       }
     }
   ],
@@ -1665,6 +1428,15 @@
       "reason": "For 2026 the Havasupai Tribe discontinued both the lottery and the transfer board. Permits for desirable dates (including late October) sell out within minutes of release, and the only remaining last-minute path is randomly re-released cancellations on the official booking page — too unreliable to plan around. Late October is also a historically flash-flood-prone window here.",
       "note": "Worth flagging in the artifact as 'considered but not viable last-minute' so others don't waste time chasing it.",
       "official_site": "https://www.havasupaireservations.com",
+      "coordinates": {
+        "lat": 36.2552,
+        "lon": -112.698
+      },
+      "image_query": [
+        "Havasu Falls Arizona",
+        "Havasupai waterfall turquoise",
+        "Mooney Falls Havasupai"
+      ],
       "image": {
         "file": "havasupai.jpg",
         "title": "File:Havasu falls Arizona.jpg",
@@ -1675,15 +1447,6 @@
         "width": 1600,
         "height": 1048,
         "query": "Havasu Falls Arizona"
-      },
-      "coordinates": {
-        "lat": 36.2552,
-        "lon": -112.698,
-        "approximate": true
-      },
-      "links": {
-        "official": "https://www.havasupaireservations.com",
-        "map": "https://www.google.com/maps/search/?api=1&query=36.2552,-112.698"
       }
     }
   ],
@@ -1694,6 +1457,5 @@
     "For coastal routes (Lost Coast, Olympic, Channel Islands), check tide tables and ferry schedules.",
     "Open-access options (Joshua Tree, Death Valley, Mojave, Anza-Borrego, Superstition, Chiricahua, Gila, Capitol Reef, Coyote Gulch, Sespe, Shenandoah, Dolly Sods, Ozarks) are the safest bets if you truly want to decide last-minute.",
     "Confirm current permit rules, quotas, and fire/seasonal closures on the official site for each destination before you go."
-  ],
-  "generated_at": "2026-06-22"
+  ]
 }
