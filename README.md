@@ -1,19 +1,21 @@
-# Last-Minute Late-October Backpacking in the US
+# Last-Minute Late-October Backpacking in Oregon
 
-A mobile-first, filterable guide to **28 late-October backpacking trips** across the US,
+A mobile-first, filterable guide to **7 late-October backpacking trips in Oregon**,
 sorted by how easily you can book them right now — with real photos, an overview map,
 plan-it summaries, and quick links (Maps, Recreation.gov, AllTrails, weather).
 
 **Live site:** https://diosmiodio.github.io/late-october-backpacking/
 
-![Destinations](assets/images/grand-canyon.jpg)
+![Destinations](assets/images/timberline-trail.jpg)
 
 ## Why late October
 
-When the Western high country (Sierra, Rockies, high Cascades) is already
-getting snow and hard freezes, the sweet spot shifts to the desert Southwest, West Texas,
-southern California, the milder Pacific coast, and a couple of shoulder-season Oregon trips. Trips are tagged
-by **bookability** so you can find something you can actually grab on short notice:
+By late October the high Oregon Cascades and the Wallowas are catching their first snows,
+so the sweet spot splits two ways: lower, drier trips that shrug off the shoulder season
+(the Rogue River canyon, the Strawberry Range, forgiving Sky Lakes) and the marquee alpine
+basins (Jefferson Park, the Wallowas Lakes Basin, Green Lakes) that are stunning but a
+genuine first-snow gamble this late. Trips are tagged by **bookability** so you can find
+something you can actually grab on short notice:
 
 - 🟢 **Open access** — no reservation; self-register at the trailhead.
 - 🔵 **Easy now** — reservable right now; rarely sells out for late October.

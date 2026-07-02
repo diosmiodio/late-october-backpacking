@@ -137,6 +137,7 @@ export function renderPage(data) {
 
   const cards = destinations.map(renderCard).join("\n");
   const tips = general_tips.map((t) => `<li>${escapeHtml(t)}</li>`).join("\n");
+  const hasRuledOut = ruled_out.length > 0;
   const ruled = ruled_out.map(renderRuledOut).join("\n");
 
   const embedded = JSON.stringify({ destinations, ruled_out }).replace(/</g, "\\u003c");
@@ -166,7 +167,7 @@ export function renderPage(data) {
   <nav class="site-nav">
     <a href="#map-section">Map</a>
     <a href="#tips">Tips</a>
-    <a href="#ruled-out">Ruled out</a>
+    ${hasRuledOut ? `<a href="#ruled-out">Ruled out</a>` : ""}
   </nav>
 </header>
 
@@ -247,10 +248,14 @@ export function renderPage(data) {
     <ul class="tips-list">${tips}</ul>
   </section>
 
-  <section id="ruled-out" class="ruled-out">
+  ${
+    hasRuledOut
+      ? `<section id="ruled-out" class="ruled-out">
     <h2>Considered but ruled out</h2>
     <div class="ruled-grid">${ruled}</div>
-  </section>
+  </section>`
+      : ""
+  }
 </main>
 
 <footer class="site-footer">
